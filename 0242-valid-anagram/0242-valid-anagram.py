@@ -1,12 +1,11 @@
 from collections import defaultdict
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        s_map = defaultdict(int)
-        t_map = defaultdict(int)
+        hashmap = defaultdict(int)
         
         for c in s:
-            s_map[c] += 1
+            hashmap[c] += 1
         for c in t:
-            t_map[c] += 1
+            hashmap[c] -= 1
 
-        return s_map == t_map
+        return all(hashmap[i] == 0 for i in hashmap)
