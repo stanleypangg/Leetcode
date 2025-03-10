@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stanleypangg/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/stanleypangg/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/stanleypangg/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/stanleypangg/Leetcode/tree/master/0217-contains-duplicate) |
@@ -67,5 +68,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/stanleypangg/Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/stanleypangg/Leetcode/tree/master/0125-valid-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/stanleypangg/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
