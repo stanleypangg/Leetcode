@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/stanleypangg/Leetcode/tree/master/0155-min-stack) |
 ## Linked List
 |  |
 | ------- |
@@ -96,4 +97,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/stanleypangg/Leetcode/tree/master/0036-valid-sudoku) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/stanleypangg/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
