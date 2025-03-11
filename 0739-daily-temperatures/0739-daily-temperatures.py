@@ -3,10 +3,10 @@ class Solution:
         res = [0] * len(temperatures)
         st = []
 
-        for i in range(len(temperatures)):
-            while st and temperatures[i] > st[-1][0]:
+        for i, t in enumerate(temperatures):
+            while st and t > st[-1][0]:
                 index = st.pop()[1]
                 res[index] = i - index
-            st.append((temperatures[i], i))
+            st.append((t, i))
         
         return res
