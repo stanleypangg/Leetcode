@@ -5,8 +5,8 @@ class Solution:
 
         while l <= r:
             mid = (l + r) // 2
-            mid_row = mid // m
-            mid_col = mid % m
+            mid_row = mid // n
+            mid_col = mid % n
             mid_val = matrix[mid_row][mid_col]
 
             if target == mid_val:
