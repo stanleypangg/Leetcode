@@ -7,7 +7,6 @@ class Solution:
             profit = max(profit, prices[j] - prices[i])
             if prices[j] < prices[i]:
                 i = j
-            else:
-                j += 1
+            j += 1
         
         return profit
