@@ -12,7 +12,7 @@ var expect = function(val) {
             if (val !== other) return true;
             else throw new Error('Equal');
         },
-    }
+    };
 };
 
 /**
