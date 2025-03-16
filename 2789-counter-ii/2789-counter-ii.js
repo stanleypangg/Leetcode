@@ -9,7 +9,7 @@ var createCounter = function(init) {
         increment: () => ++curr,
         decrement: () => --curr,
         reset: () => curr = init,
-    }
+    };
 };
 
 /**
