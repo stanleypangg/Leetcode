@@ -44,6 +44,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
@@ -53,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/stanleypangg/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/stanleypangg/Leetcode/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/stanleypangg/Leetcode/tree/master/0520-detect-capital) |
 ## Divide and Conquer
 |  |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stanleypangg/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
