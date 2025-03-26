@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stanleypangg/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/stanleypangg/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stanleypangg/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -64,6 +65,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Math
 |  |
@@ -190,4 +194,8 @@
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/stanleypangg/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
