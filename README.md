@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/stanleypangg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stanleypangg/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/stanleypangg/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stanleypangg/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/stanleypangg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stanleypangg/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
