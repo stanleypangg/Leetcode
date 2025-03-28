@@ -7,8 +7,8 @@ class Solution:
         #             return [i, j]
         
         indices = {}
-        for i in range(len(nums)):
-            if target - nums[i] in indices:
-                return [i, indices[target - nums[i]]]
+        for i, n in enumerate(nums):
+            if target - n in indices:
+                return [i, indices[target - n]]
             
-            indices[nums[i]] = i
+            indices[n] = i
