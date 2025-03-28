@@ -1,13 +1,8 @@
-import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        heap = []
-        hashmap = defaultdict(int)
-
+        # Array and hashing
+        count = {}
         for n in nums:
-            hashmap[n] -= 1
-        
-        for key in hashmap:
-            heapq.heappush(heap, (key, hashmap[key]))
-        
-        return [h[0] for h in sorted(heap, key=lambda x: x[1])[:k]]
+            count[n] = count.get(n, 0) + 1
+        count = sorted(count.keys(), key=lambda x: count[x], reverse=True)
+        return count[:k]
