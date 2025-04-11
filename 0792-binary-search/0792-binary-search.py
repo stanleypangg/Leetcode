@@ -4,11 +4,11 @@ class Solution:
 
         while l <= r:
             mid = (l + r) // 2
-            n = nums[mid]
+            curr = nums[mid]
 
-            if n == target:
+            if curr == target:
                 return mid
-            elif n < target:
+            elif curr < target:
                 l = mid + 1
             else:
                 r = mid - 1
