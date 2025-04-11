@@ -6,12 +6,11 @@ function memoize(fn) {
     const memo = {};
 
     return function(...args) {
-        const key = JSON.stringify(args)
-        if (!(key in memo)) {
-            memo[key] = fn(...args);
+        if (!(args in memo)) {
+            memo[args] = fn(...args);
         }
 
-        return memo[key];
+        return memo[args];
     };
 }
 
