@@ -1,19 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         st = []
+        mapping = {'(':')', '[':']', '{':'}'}
 
         for c in s:
-            if c == '(':
-                st.append('(')
-            elif c == '[':
-                st.append('[')
-            elif c == '{':
-                st.append('{')
-            elif c == ')' and (not st or st.pop() != '('):
+            if c in mapping.keys():
+                st.append(mapping[c])
+            elif c in mapping.values() and not st or st.pop() != c:
                 return False
-            elif c == ']' and (not st or st.pop() != '['):
-                return False
-            elif c == '}' and (not st or st.pop() != '{'):
-                return False
-        
+
         return not st
