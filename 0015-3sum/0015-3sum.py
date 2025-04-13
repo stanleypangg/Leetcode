@@ -9,19 +9,17 @@ class Solution:
 
             j = i + 1
             k = len(nums) - 1
-
             while j < k:
-                total = nums[i] + nums[j] + nums[k]
-
-                if total == 0:
+                sum = nums[i] + nums[k] + nums[j]
+                if sum == 0:
                     ret.append([nums[i], nums[j], nums[k]])
                     j += 1
 
                     while j < k and nums[j] == nums[j - 1]:
                         j += 1
-                elif total < 0:
+                elif sum < 0:
                     j += 1
                 else:
                     k -= 1
-
+        
         return ret
