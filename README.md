@@ -40,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/stanleypangg/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0242-valid-anagram](https://github.com/stanleypangg/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/stanleypangg/Leetcode/tree/master/0520-detect-capital) |
 ## Divide and Conquer
 |  |
@@ -221,4 +223,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stanleypangg/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
