@@ -190,6 +190,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stanleypangg/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/stanleypangg/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/stanleypangg/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/stanleypangg/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
@@ -232,4 +234,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stanleypangg/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
