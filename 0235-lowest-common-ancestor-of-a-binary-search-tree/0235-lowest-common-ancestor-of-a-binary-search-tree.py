@@ -13,19 +13,15 @@ class Solution:
         big = p if p.val > q.val else q
         
         def search(root):
-            if small.val < root.val < big.val:
+            if (small.val < root.val < big.val or
+                big.val == root.val or
+                small.val == root.val):
                 self.res = root
                 return
             elif big.val < root.val:
                 search(root.left)
             elif small.val > root.val:
                 search(root.right)
-            elif small.val == root.val:
-                self.res = root
-                return
-            elif big.val == root.val:
-                self.res = root
-                return
         
         search(root)
 
