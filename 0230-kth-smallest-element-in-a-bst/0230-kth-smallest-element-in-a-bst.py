@@ -12,12 +12,8 @@ class Solution:
             if not node:
                 return
             
-            if not node.left:
-                arr.append(node.val)
-            else:
-                dfs(node.left)
-                arr.append(node.val)
-            
+            dfs(node.left)
+            arr.append(node.val)
             dfs(node.right)
         
         dfs(root)
