@@ -73,6 +73,7 @@
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/stanleypangg/Leetcode/tree/master/0520-detect-capital) |
+| [1714-rearrange-spaces-between-words](https://github.com/stanleypangg/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 ## Divide and Conquer
 |  |
 | ------- |
