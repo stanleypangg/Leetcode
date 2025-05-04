@@ -77,12 +77,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stanleypangg/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stanleypangg/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -135,6 +137,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/stanleypangg/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/stanleypangg/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/stanleypangg/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/stanleypangg/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/stanleypangg/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -267,4 +270,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/stanleypangg/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
