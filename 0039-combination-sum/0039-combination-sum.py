@@ -9,9 +9,7 @@ class Solution:
             if i >= len(candidates) or total > target:
                 return
             
-            curr.append(candidates[i])
-            dfs(i, curr, total + candidates[i])
-            curr.pop()
+            dfs(i, curr + [candidates[i]], total + candidates[i])
             dfs(i + 1, curr, total)
 
         dfs(0, [], 0)
