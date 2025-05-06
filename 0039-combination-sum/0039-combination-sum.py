@@ -2,15 +2,17 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         res = []
 
-        def dfs(i, curr, total):
+        def bt(i, curr, total):
             if total == target:
+                # valid combo found
                 res.append(curr.copy())
                 return
             if i >= len(candidates) or total > target:
+                # bad combo, backtrack
                 return
             
-            dfs(i, curr + [candidates[i]], total + candidates[i])
-            dfs(i + 1, curr, total)
-
-        dfs(0, [], 0)
+            bt(i, curr + [candidates[i]], total + candidates[i])
+            bt(i + 1, curr, total)
+        
+        bt(0, [], 0)
         return res
