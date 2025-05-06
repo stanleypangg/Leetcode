@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/stanleypangg/Leetcode/tree/master/0118-pascals-triangle) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/stanleypangg/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/stanleypangg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/stanleypangg/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Database
