@@ -3,13 +3,16 @@ class Solution:
         # Time and space: O(n * 2^n)
         res = []
 
-        def bt(i, curr):
-            if i > len(nums):
+        subset = []
+        def bt(i):
+            if i >= len(nums):
+                res.append(subset.copy())
                 return
 
-            res.append(curr.copy())
-            for j in range(i, len(nums)):
-                bt(j+1, curr + [nums[j]])
+            subset.append(nums[i])
+            bt(i + 1)
+            subset.pop()
+            bt(i + 1)
         
-        bt(0, [])
+        bt(0)
         return res
