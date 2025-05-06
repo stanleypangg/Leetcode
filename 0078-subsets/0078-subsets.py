@@ -1,5 +1,6 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
+        # Time and space: O(n * 2^n)
         res = []
 
         def bt(i, curr):
