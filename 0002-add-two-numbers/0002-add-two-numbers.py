@@ -9,31 +9,19 @@ class Solution:
         dummy = ListNode()
         curr = dummy
 
-        while l1 and l2:
-            sum = l1.val + l2.val + carry
-            curr.next = ListNode(sum % 10)
-            carry = sum // 10
-            
-            curr = curr.next
-            l1 = l1.next
-            l2 = l2.next
-        
-        if l1:
-            remaining = l1
-        elif l2:
-            remaining = l2
-        else:
-            remaining = None
+        while l1 or l2 or carry:
+            total = carry 
 
-        while remaining:
-            sum = remaining.val + carry
-            curr.next = ListNode(sum % 10)
-            carry = sum // 10
-
-            curr = curr.next
-            remaining = remaining.next
-        
-        if carry:
-            curr.next = ListNode(1)
+            if l1:
+                total += l1.val
+                l1 = l1.next
+            if l2:
+                total += l2.val
+                l2 = l2.next
             
+            num = total % 10
+            carry = total // 10
+            curr.next = ListNode(num)
+            curr = curr.next
+        
         return dummy.next
