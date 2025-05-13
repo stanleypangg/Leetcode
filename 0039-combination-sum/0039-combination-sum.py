@@ -1,18 +1,16 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        res = []
+        self.res = []
 
-        def bt(i, curr, total):
+        def dfs(i, curr, total):
             if total == target:
-                # valid combo found
-                res.append(curr.copy())
+                self.res.append(curr.copy())
                 return
-            if i >= len(candidates) or total > target:
-                # bad combo, backtrack
+            elif total > target or i >= len(candidates):
                 return
-            
-            bt(i, curr + [candidates[i]], total + candidates[i])
-            bt(i + 1, curr, total)
+
+            dfs(i, curr + [candidates[i]], total + candidates[i])
+            dfs(i + 1, curr, total)
         
-        bt(0, [], 0)
-        return res
+        dfs(0, [], 0)
+        return self.res
