@@ -1,18 +1,16 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        # Time and space: O(n * 2^n)
-        res = []
-
-        subset = []
-        def bt(i):
+        self.res = []
+        
+        def dfs(i, curr):
             if i >= len(nums):
-                res.append(subset.copy())
+                self.res.append(curr.copy())
                 return
 
-            subset.append(nums[i])
-            bt(i + 1)
-            subset.pop()
-            bt(i + 1)
+            curr.append(nums[i])
+            dfs(i + 1, curr)
+            curr.pop()
+            dfs(i + 1, curr)
         
-        bt(0)
-        return res
+        dfs(0, [])
+        return self.res
