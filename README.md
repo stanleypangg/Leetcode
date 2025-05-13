@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/stanleypangg/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/stanleypangg/Leetcode/tree/master/0118-pascals-triangle) |
@@ -82,6 +83,7 @@
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/stanleypangg/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/stanleypangg/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/stanleypangg/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/stanleypangg/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/stanleypangg/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/stanleypangg/Leetcode/tree/master/0344-reverse-string) |
@@ -190,6 +192,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/stanleypangg/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/stanleypangg/Leetcode/tree/master/0079-word-search) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Design
 |  |
@@ -226,6 +229,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/stanleypangg/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/stanleypangg/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -283,6 +287,7 @@
 | [0039-combination-sum](https://github.com/stanleypangg/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/stanleypangg/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/stanleypangg/Leetcode/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
