@@ -12,10 +12,9 @@ class Solution:
             return True
         
         def bt(curr, i):
-            if i >= len(s) and is_palindrome(curr[-1]):
-                self.res.append(curr.copy())
-                return
-            elif i >= len(s):
+            if i >= len(s):
+                if is_palindrome(curr[-1]):
+                    self.res.append(curr.copy())
                 return
             
             if curr:
