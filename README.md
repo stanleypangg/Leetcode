@@ -39,6 +39,7 @@
 | [0907-koko-eating-bananas](https://github.com/stanleypangg/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/stanleypangg/Leetcode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/stanleypangg/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -204,6 +205,7 @@
 | [0079-word-search](https://github.com/stanleypangg/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/stanleypangg/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Design
 |  |
@@ -266,6 +268,7 @@
 | [0200-number-of-islands](https://github.com/stanleypangg/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
