@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/stanleypangg/Leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/stanleypangg/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/stanleypangg/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -187,6 +188,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/stanleypangg/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/stanleypangg/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/stanleypangg/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stanleypangg/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/stanleypangg/Leetcode/tree/master/0155-min-stack) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/stanleypangg/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/stanleypangg/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
