@@ -380,6 +380,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/stanleypangg/Leetcode/tree/master/0175-combine-two-tables) |
+| [0595-big-countries](https://github.com/stanleypangg/Leetcode/tree/master/0595-big-countries) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/stanleypangg/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Binary Search Tree
 |  |
