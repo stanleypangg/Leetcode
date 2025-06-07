@@ -65,6 +65,7 @@
 | [0133-clone-graph](https://github.com/stanleypangg/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/stanleypangg/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/stanleypangg/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/stanleypangg/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/stanleypangg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/stanleypangg/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
@@ -205,6 +206,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/stanleypangg/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/stanleypangg/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/stanleypangg/Leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/stanleypangg/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -229,6 +231,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/stanleypangg/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/stanleypangg/Leetcode/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -426,4 +429,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/stanleypangg/Leetcode/tree/master/0207-course-schedule) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/stanleypangg/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
