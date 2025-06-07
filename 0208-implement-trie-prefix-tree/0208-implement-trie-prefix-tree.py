@@ -1,20 +1,19 @@
 class Node:
-    def __init__(self, char, end):
+    def __init__(self, char):
         self.char = char
         self.children = {}
-        self.end = end
 
 class Trie:
     def __init__(self):
-        self.root = Node('', False)
+        self.root = Node('')
 
     def insert(self, word: str) -> None:
         curr = self.root
         for c in word:
             if c not in curr.children:
-                curr.children[c] = Node(c, False)
+                curr.children[c] = Node(c)
             curr = curr.children[c]
-        curr.end = True
+        curr.children['.'] = None
 
     def search(self, word: str) -> bool:
         curr = self.root
@@ -22,7 +21,7 @@ class Trie:
             if c not in curr.children:
                 return False
             curr = curr.children[c]
-        return curr.end
+        return '.' in curr.children
 
     def startsWith(self, prefix: str) -> bool:
         curr = self.root
