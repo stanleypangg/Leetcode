@@ -38,6 +38,7 @@
 | [0287-find-the-duplicate-number](https://github.com/stanleypangg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/stanleypangg/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
@@ -74,6 +75,7 @@
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@
 | [0242-valid-anagram](https://github.com/stanleypangg/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0948-sort-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Simulation
@@ -136,6 +139,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/stanleypangg/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -150,6 +154,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -189,6 +194,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/stanleypangg/Leetcode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
 | ------- |
