@@ -14,7 +14,7 @@ class Solution:
                 res.append([''.join(row) for row in board])
                 return
 
-            for col in range (n):
+            for col in range(n):
                 if is_safe(board, row, col):
                     board[row][col] = 'Q'
                     bt(board, row + 1)
