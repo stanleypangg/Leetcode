@@ -1,15 +1,15 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        # f(n) = f(n - 1) + f(n - 2)
-        if n <= 3:
+        # f(1) = 1, f(2) = 2
+        # f(n) = f(n - 1) + f(n - 2) for n > 2
+
+        if n <= 2:
             return n
 
-        prev1 = 3
-        prev2 = 2
+        dp = [1, 2]
+        for _ in range(n - 2):
+            tmp = dp[1]
+            dp[1] = tmp + dp[0]
+            dp[0] = tmp
         
-        for _ in range(3, n):
-            curr = prev1 + prev2
-            prev2 = prev1
-            prev1 = curr
-        
-        return curr
+        return dp[1]
