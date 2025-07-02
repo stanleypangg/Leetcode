@@ -86,6 +86,7 @@
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/stanleypangg/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stanleypangg/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
@@ -137,6 +138,7 @@
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1714-rearrange-spaces-between-words](https://github.com/stanleypangg/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1894-merge-strings-alternately](https://github.com/stanleypangg/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/stanleypangg/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/stanleypangg/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/stanleypangg/Leetcode/tree/master/3379-score-of-a-string) |
