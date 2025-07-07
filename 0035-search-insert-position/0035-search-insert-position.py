@@ -4,9 +4,10 @@ class Solution:
 
         while l <= r:
             mid = (l + r) // 2
-            if nums[mid] == target:
+            curr = nums[mid]
+            if curr == target:
                 return mid
-            elif nums[mid] < target:
+            elif curr < target:
                 l = mid + 1
             else:
                 r = mid - 1
