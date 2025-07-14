@@ -256,6 +256,7 @@
 | [0206-reverse-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/stanleypangg/Leetcode/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/stanleypangg/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -412,6 +413,7 @@
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/stanleypangg/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/stanleypangg/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2752-sum-multiples](https://github.com/stanleypangg/Leetcode/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
