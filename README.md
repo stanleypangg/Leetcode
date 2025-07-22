@@ -138,6 +138,7 @@
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/stanleypangg/Leetcode/tree/master/0742-to-lower-case) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/stanleypangg/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/stanleypangg/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1894-merge-strings-alternately](https://github.com/stanleypangg/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/stanleypangg/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
