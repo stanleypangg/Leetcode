@@ -106,6 +106,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -119,6 +120,7 @@
 | [0022-generate-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/stanleypangg/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/stanleypangg/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/stanleypangg/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/stanleypangg/Leetcode/tree/master/0125-valid-palindrome) |
@@ -408,6 +410,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/stanleypangg/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stanleypangg/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
@@ -454,6 +457,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/stanleypangg/Leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
