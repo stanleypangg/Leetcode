@@ -52,6 +52,7 @@
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/stanleypangg/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0948-sort-an-array) |
+| [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/stanleypangg/Leetcode/tree/master/1127-last-stone-weight) |
@@ -288,6 +289,7 @@
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/stanleypangg/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
+| [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
 ## Design
@@ -445,6 +447,7 @@
 | [0131-palindrome-partitioning](https://github.com/stanleypangg/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/stanleypangg/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0392-is-subsequence) |
+| [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
