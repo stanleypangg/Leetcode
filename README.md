@@ -313,6 +313,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/stanleypangg/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/stanleypangg/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/stanleypangg/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/stanleypangg/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stanleypangg/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stanleypangg/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -431,6 +432,7 @@
 | [0002-add-two-numbers](https://github.com/stanleypangg/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/stanleypangg/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stanleypangg/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
