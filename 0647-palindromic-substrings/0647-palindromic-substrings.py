@@ -9,17 +9,12 @@ class Solution:
         # Possible to overcount? Don't think so, we have different centers
         # Let's go
 
-        # Probably need to memo something
-        # O(n^2) exceeds time limit
-
         self.res = 0
-        memo = defaultdict(dict)
 
         n = len(s)
         def expand_from_center(l, r): # O(n)
             while l >= 0 and r < n and s[l] == s[r]:
                 self.res += 1
-                memo[l][r] = True
                 l -= 1
                 r += 1
         
