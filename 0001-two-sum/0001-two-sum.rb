@@ -5,7 +5,7 @@ def two_sum(nums, target)
     hash = {}
     nums.each_with_index do |num, i|
         complement = target - num
-        return [i, hash[complement]] if hash.key?(complement) && hash[complement] != i
+        return [i, hash[complement]] if hash.key?(complement)
         hash[num] = i
     end
 end
