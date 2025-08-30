@@ -54,6 +54,7 @@
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
+| [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/stanleypangg/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -96,6 +97,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
+| [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/stanleypangg/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -121,6 +123,7 @@
 | [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
+| [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
