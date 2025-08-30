@@ -16,21 +16,21 @@ class Solution:
         directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
         facing = 0 # index 0 = North
 
-        obstacles = set(tuple(obstacle) for obstacle in obstacles)
+        obstacles = set(map(tuple, obstacles))
 
         for command in commands:
             if command == -2:
-                facing = facing - 1 if facing > 0 else 3
+                facing = (facing - 1) % 4
             elif command == -1:
                 facing = (facing + 1) % 4
             else:
                 # just loop k tiems?
                 dx, dy = directions[facing]
                 for _ in range(command):
-                    new_x, new_y = x + dx, y + dy
-                    if (new_x, new_y) in obstacles:
+                    nx, ny = x + dx, y + dy
+                    if (nx, ny) in obstacles:
                         break
-                    x, y = new_x, new_y
-                    res = max(res, (x ** 2 + y ** 2))
+                    x, y = nx, ny
+                    res = max(res, x ** 2 + y ** 2)
         
         return res
