@@ -125,6 +125,7 @@
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
@@ -330,6 +331,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
+| [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 ## Binary Search
 |  |
 | ------- |
