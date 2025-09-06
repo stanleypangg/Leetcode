@@ -1,6 +1,6 @@
 class Solution:
     def splitNum(self, num: int) -> int:
-        num_arr = sorted([n for n in str(num)])
+        num_arr = sorted(str(num))
         num1 = num2 = ''
 
         for n in num_arr:
