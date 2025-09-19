@@ -57,6 +57,7 @@
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/stanleypangg/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0948-sort-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/stanleypangg/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/stanleypangg/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Union Find
 |  |
@@ -358,6 +360,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/stanleypangg/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/stanleypangg/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Tree
@@ -479,6 +482,7 @@
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/stanleypangg/Leetcode/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
+| [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/stanleypangg/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -655,4 +659,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
