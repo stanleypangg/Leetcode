@@ -134,6 +134,7 @@
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [1708-design-parking-system](https://github.com/stanleypangg/Leetcode/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -227,6 +228,7 @@
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
+| [1708-design-parking-system](https://github.com/stanleypangg/Leetcode/tree/master/1708-design-parking-system) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stanleypangg/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Quickselect
 |  |
@@ -351,6 +353,7 @@
 | [0838-design-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
+| [1708-design-parking-system](https://github.com/stanleypangg/Leetcode/tree/master/1708-design-parking-system) |
 | [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 ## Binary Search
 |  |
