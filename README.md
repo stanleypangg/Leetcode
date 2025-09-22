@@ -72,6 +72,7 @@
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/stanleypangg/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/stanleypangg/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
@@ -183,6 +184,7 @@
 | [1894-merge-strings-alternately](https://github.com/stanleypangg/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/stanleypangg/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2154-minimum-moves-to-convert-string](https://github.com/stanleypangg/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/stanleypangg/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/stanleypangg/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/stanleypangg/Leetcode/tree/master/3194-find-words-containing-character) |
