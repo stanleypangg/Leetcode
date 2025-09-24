@@ -21,6 +21,7 @@
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/stanleypangg/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/stanleypangg/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/stanleypangg/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -302,6 +303,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/stanleypangg/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/stanleypangg/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/stanleypangg/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stanleypangg/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/stanleypangg/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -548,6 +550,7 @@
 | [0042-trapping-rain-water](https://github.com/stanleypangg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/stanleypangg/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/stanleypangg/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/stanleypangg/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/stanleypangg/Leetcode/tree/master/0118-pascals-triangle) |
