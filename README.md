@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/stanleypangg/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/stanleypangg/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stanleypangg/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/stanleypangg/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -520,6 +522,7 @@
 | [0005-longest-palindromic-substring](https://github.com/stanleypangg/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/stanleypangg/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/stanleypangg/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/stanleypangg/Leetcode/tree/master/0118-pascals-triangle) |
