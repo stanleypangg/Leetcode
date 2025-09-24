@@ -3,16 +3,17 @@ class Solution:
         orig = image[sr][sc]
         if orig == color:
             return image
-            
+
         m, n = len(image), len(image[0])
-        dirs = ((0, 1), (0, -1), (1, 0), (-1, 0))
 
         def dfs(r, c):
+            if r < 0 or r >= m or c < 0 or c >= n or image[r][c] != orig:
+                return
             image[r][c] = color
-            for dr, dc in dirs:
-                nr, nc = r + dr, c + dc
-                if 0 <= nr < m and 0 <= nc < n and image[nr][nc] == orig:
-                    dfs(nr, nc)
+            dfs(r + 1, c)
+            dfs(r - 1, c)
+            dfs(r, c + 1)
+            dfs(r, c - 1)
 
         dfs(sr, sc)
 
