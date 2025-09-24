@@ -3,13 +3,13 @@ class Solution:
         # O(nlogn): sort intervals, then just find overlap
         res = []
         intervals.sort()
-        curr_s, curr_e = intervals[0]
-        for start, end in intervals:
-            if curr_s <= start <= curr_e:
-                curr_e = max(curr_e, end)
+        
+        for interval in intervals:
+            # if res is empty or most recent end doesn't overlap next start
+            if not res or res[-1][1] < interval[0]:
+                res.append(interval)
             else:
-                res.append([curr_s, curr_e])
-                curr_s, curr_e = start, end
-        if not res or res[-1] != [curr_s, curr_e]:
-            res.append([curr_s, curr_e])
+                # overlap, externd end of furthest one
+                res[-1][1] = max(res[-1][1], interval[1])
+        
         return res
