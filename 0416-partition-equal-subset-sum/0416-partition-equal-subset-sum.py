@@ -9,12 +9,12 @@ class Solution:
         dp = set()
         dp.add(0)
 
-        for i in range(len(nums) - 1, -1, -1):
+        for n in nums:
             next_dp = set()
             for t in dp:
-                if (t + nums[i]) == target:
+                if (t + n) == target:
                     return True
-                next_dp.add(t + nums[i])
+                next_dp.add(t + n)
                 next_dp.add(t)
             dp = next_dp
 
