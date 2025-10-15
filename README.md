@@ -65,6 +65,7 @@
 | [0697-degree-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
+| [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
@@ -123,6 +124,7 @@
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0697-degree-of-an-array) |
+| [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -204,6 +206,7 @@
 | [0647-palindromic-substrings](https://github.com/stanleypangg/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/stanleypangg/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/stanleypangg/Leetcode/tree/master/0742-to-lower-case) |
+| [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -519,6 +522,7 @@
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
+| [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
