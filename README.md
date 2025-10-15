@@ -36,6 +36,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stanleypangg/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/stanleypangg/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/stanleypangg/Leetcode/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/stanleypangg/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/stanleypangg/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/stanleypangg/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -106,6 +107,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/stanleypangg/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/stanleypangg/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/stanleypangg/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/stanleypangg/Leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/stanleypangg/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/stanleypangg/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/stanleypangg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -185,6 +187,7 @@
 | [0125-valid-palindrome](https://github.com/stanleypangg/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/stanleypangg/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/stanleypangg/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/stanleypangg/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/stanleypangg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/stanleypangg/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
@@ -582,6 +585,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/stanleypangg/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/stanleypangg/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/stanleypangg/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/stanleypangg/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/stanleypangg/Leetcode/tree/master/0213-house-robber-ii) |
@@ -663,6 +667,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/stanleypangg/Leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
 ## Merge Sort
 |  |
@@ -710,6 +715,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/stanleypangg/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/stanleypangg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/stanleypangg/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
