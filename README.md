@@ -563,6 +563,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/stanleypangg/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/stanleypangg/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/stanleypangg/Leetcode/tree/master/0069-sqrtx) |
@@ -588,6 +589,7 @@
 | [0045-jump-game-ii](https://github.com/stanleypangg/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/stanleypangg/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/stanleypangg/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/stanleypangg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/stanleypangg/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/stanleypangg/Leetcode/tree/master/0118-pascals-triangle) |
@@ -773,4 +775,8 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/stanleypangg/Leetcode/tree/master/1656-count-good-triplets) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/stanleypangg/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
