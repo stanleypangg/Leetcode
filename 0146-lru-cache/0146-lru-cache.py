@@ -1,16 +1,15 @@
 class Node:
-    def __init__(self, val, prev = None, next = None, cached = False):
+    def __init__(self, key, val, prev = None, next = None):
+        self.key = key
         self.val = val
         self.prev = prev
         self.next = next
-        self.cached = cached
 
     def remove(self):
         # Remove self from linked list
         temp = self.prev
         self.prev.next = self.next
         self.next.prev = temp
-        self.cached = False
     
     def insert(self, node):
         # insert node after self
@@ -18,7 +17,6 @@ class Node:
         self.next = node
         node.prev, node.next = self, temp
         temp.prev = node 
-        node.cached = True
 
 class LRUCache:
 
@@ -31,8 +29,8 @@ class LRUCache:
         self.hashmap = {}
 
         # initialize dummy nodes
-        self.head = Node(0) # head
-        self.tail = Node(0) # tail
+        self.head = Node(-1, 0) # head
+        self.tail = Node(-1, 0) # tail
         self.head.next, self.tail.prev = self.tail, self.head
 
     def get(self, key: int) -> int:
@@ -40,7 +38,7 @@ class LRUCache:
         # get: get the key, if exists, check if its within cache
         # check within cache: keep a boolean
 
-        if key in self.hashmap and self.hashmap[key].cached:
+        if key in self.hashmap:
             # Enforce LRU
             # Remove Node, and insert at tail
             node = self.hashmap[key]
@@ -66,10 +64,12 @@ class LRUCache:
         # Otherwise, we insert at end, and handle it ourselves
         if self.capacity == 0:
             # Not enough space, we need to evict
-            self.head.next.remove()
+            lru = self.head.next
+            del self.hashmap[lru.key]
+            lru.remove()
             self.capacity += 1
         
-        new_node = Node(value)
+        new_node = Node(key, value)
         self.hashmap[key] = new_node # create new node
         self.tail.prev.insert(new_node)
         self.capacity -= 1
