@@ -62,17 +62,15 @@ class LRUCache:
             return
 
         # Otherwise, we insert at end, and handle it ourselves
-        if self.capacity == 0:
+        if self.capacity == len(self.hashmap):
             # Not enough space, we need to evict
             lru = self.head.next
             del self.hashmap[lru.key]
             lru.remove()
-            self.capacity += 1
         
         new_node = Node(key, value)
         self.hashmap[key] = new_node # create new node
         self.tail.prev.insert(new_node)
-        self.capacity -= 1
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
