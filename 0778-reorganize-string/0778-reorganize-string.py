@@ -1,28 +1,31 @@
 class Solution:
     def reorganizeString(self, s: str) -> str:
-        # get count
-        count = {}
+        freq = {}
         for c in s:
-            count[c] = count.get(c, 0) + 1
-        
-        # alternate between most common letters
-        # use a max heap
-        heap = [(-freq, char) for char, freq in count.items()]
-        heapq.heapify(heap)
+            freq[c] = freq.get(c, 0) + 1
+
+        heap = [[-f, c] for c, f in freq.items()]
+        heapq.heapify(heap) # O(26)
 
         res = []
-        prev_freq, prev_char = 0, ''
-        while heap:
-            freq, char = heapq.heappop(heap)
-            res.append(char)
 
-            if prev_freq < 0:
-                heapq.heappush(heap, (prev_freq, prev_char))
+        f_one, one = heapq.heappop(heap)
+        f_one += 1
+        res.append(one)
+
+        while heap:
+            f_two, two = heapq.heappop(heap)
+            f_two += 1
+            res.append(two)
+
+            # char one still has more freq
+            if -f_one > 0:
+                heapq.heappush(heap, [f_one, one])
             
-            freq += 1
-            prev_freq, prev_char = freq, char
+            f_one, one = f_two, two
         
         if len(res) != len(s):
             return ''
-
+        
         return ''.join(res)
+            
