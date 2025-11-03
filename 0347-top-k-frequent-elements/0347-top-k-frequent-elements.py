@@ -2,14 +2,14 @@ class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         # O(n) space and time
         freq = Counter(nums)
-        
-        heap = []
-        # O(n) iterations
+        buckets = [[] for _ in range(len(nums) + 1)]
+
         for num, count in freq.items():
-            # O(logn) work per iteration
-            if len(heap) == k:
-                heapq.heappushpop(heap, (count, num))
-            else:
-                heapq.heappush(heap, (count, num))
+            buckets[count].append(num)
         
-        return [num for _, num in heap]
+        res = []
+        for i in range(len(buckets) - 1, -1, -1):
+            for num in buckets[i]:
+                res.append(num)
+                if len(res) == k:
+                    return res
