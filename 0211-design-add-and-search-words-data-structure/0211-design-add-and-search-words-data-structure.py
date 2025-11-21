@@ -25,7 +25,9 @@ class WordDictionary:
             nextt = word[i]
 
             if nextt == '.':
-                return any(dfs(node.children[child], i + 1) for child in node.children)
+                for child in node.children.values():
+                    if dfs(child, i + 1):
+                        return True
             elif nextt in node.children:
                 return dfs(node.children[nextt], i + 1)
             
