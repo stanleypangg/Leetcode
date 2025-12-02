@@ -1,15 +1,15 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        # O(n) space and time
-        freq = Counter(nums)
-        buckets = [[] for _ in range(len(nums) + 1)]
-
-        for num, count in freq.items():
-            buckets[count].append(num)
+        # better than O(nlogn) means no sorting
+        counter = {} # O(k) space
+        for num in nums: # O(n) time
+            counter[num] = counter.get(num, 0) + 1
         
-        res = []
-        for i in range(len(buckets) - 1, -1, -1):
-            for num in buckets[i]:
-                res.append(num)
-                if len(res) == k:
-                    return res
+        heap = [] # O(k) space
+        for num, freq in counter.items(): # O(k) iterations
+            if len(heap) < k:
+                heapq.heappush(heap, (freq, num))
+            else:
+                heapq.heappushpop(heap, (freq, num))
+        
+        return [num for _, num in heap]
