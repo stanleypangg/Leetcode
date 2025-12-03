@@ -20,4 +20,4 @@ class Solution:
                 groups[key] = []
             groups[key].append(string)
         
-        return [group for group in groups.values()]
+        return list(groups.values())
