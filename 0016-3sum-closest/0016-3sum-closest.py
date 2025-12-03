@@ -4,9 +4,6 @@ class Solution:
         res = float('inf')
 
         for i in range(len(nums) - 2):
-            if i > 0 and nums[i - 1] == nums[i]:
-                continue
-
             j, k = i + 1, len(nums) - 1
             while j < k:
                 # unlike 3sum, duplicates dont matter here
