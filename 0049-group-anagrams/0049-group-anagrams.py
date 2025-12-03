@@ -1,15 +1,23 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hashmap = {}
+        # hashmap: group key -> anagrams
+        groups = {}
 
         for string in strs:
-            counter = [0] * 26
+            # form a key
+            # use a counter
+
+            # array b/c fixed number of characters + convertible to tuple
+            # tuple is immutable -> can be used for the key
+            # all anagrams will have the same counter
+            counter = [0] * 26 
             for c in string:
+                # subtract ord('a') to offset to 0, 1, 2, 3...
                 counter[ord(c) - ord('a')] += 1
             
             key = tuple(counter)
-            if key not in hashmap:
-                hashmap[key] = []
-            hashmap[key].append(string)
+            if key not in groups:
+                groups[key] = []
+            groups[key].append(string)
         
-        return list(hashmap.values())
+        return [group for group in groups.values()]
