@@ -7,14 +7,9 @@ class Solution:
         # face-up: power is at least tokens[i] -> lose tokens[i] power and gain 1 score
         # face-down: score is at least 1 -> gain tokens[i] and lose 1 score
 
-        if not tokens:
-            return 0
-
-        tokens.sort()
-        if power < tokens[0]:
-            return 0
-
         res = score = 0
+        tokens.sort()
+        
         l, r = 0, len(tokens) - 1
         while l <= r:
             if power >= tokens[l]:
