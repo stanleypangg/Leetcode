@@ -9,9 +9,6 @@ class Solution:
 
             j, k = i + 1, len(nums) - 1
             while j < k:
-                while j > i + 1 and j < k and nums[j] == nums[j - 1]:
-                    j += 1
-
                 total = nums[i] + nums[j] + nums[k]
                 if abs(total - target) < abs(res - target):
                     res = total
@@ -20,6 +17,8 @@ class Solution:
                     return total
                 elif total < target:
                     j += 1
+                    while j < k and nums[j] == nums[j - 1]:
+                        j += 1
                 else:
                     k -= 1
         
