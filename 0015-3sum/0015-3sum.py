@@ -16,7 +16,7 @@ class Solution:
                     j += 1
 
                     while j < k and nums[j] == nums[j - 1]:
-                        continue
+                        j += 1
                 elif total < 0:
                     j += 1
                 else:
