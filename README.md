@@ -82,6 +82,7 @@
 | [1039-find-the-town-judge](https://github.com/stanleypangg/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/stanleypangg/Leetcode/tree/master/1127-last-stone-weight) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/stanleypangg/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/stanleypangg/Leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/stanleypangg/Leetcode/tree/master/1656-count-good-triplets) |
@@ -138,6 +139,7 @@
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/stanleypangg/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/stanleypangg/Leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/stanleypangg/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -332,6 +334,7 @@
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/stanleypangg/Leetcode/tree/master/0948-bag-of-tokens) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/stanleypangg/Leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1894-merge-strings-alternately](https://github.com/stanleypangg/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/stanleypangg/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -433,6 +436,7 @@
 | [0838-design-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
+| [1570-dot-product-of-two-sparse-vectors](https://github.com/stanleypangg/Leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
 | [1708-design-parking-system](https://github.com/stanleypangg/Leetcode/tree/master/1708-design-parking-system) |
 | [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
