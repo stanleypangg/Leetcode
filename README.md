@@ -61,6 +61,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/stanleypangg/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/stanleypangg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
+| [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
@@ -174,6 +175,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
