@@ -6,14 +6,9 @@ class Solution:
 
         # timeSeries: non-decreasing, timeSeries[i] denotes Teemo attacks Ashe at second timeSeries[i]
 
-        res = duration
+        res = 0
 
-        for i in range(1, len(timeSeries)):
-            # check if within prev interval
-            prev, curr = timeSeries[i - 1], timeSeries[i]
-            if prev <= curr <= prev + duration - 1:
-                res += curr - prev
-            else:
-                res += duration
+        for i in range(len(timeSeries) - 1):
+            res += min(timeSeries[i + 1] - timeSeries[i], duration)
         
-        return res
+        return res + duration
