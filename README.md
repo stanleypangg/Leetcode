@@ -248,6 +248,7 @@
 | [0053-maximum-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0191-number-of-1-bits](https://github.com/stanleypangg/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0948-sort-an-array) |
@@ -670,6 +671,7 @@
 | [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/stanleypangg/Leetcode/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/stanleypangg/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/stanleypangg/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/stanleypangg/Leetcode/tree/master/0287-find-the-duplicate-number) |
