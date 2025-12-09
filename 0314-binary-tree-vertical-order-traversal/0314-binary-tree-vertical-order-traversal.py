@@ -16,17 +16,16 @@ class Solution:
 
         q = deque([(root, 0)])
         while q:
-            for _ in range(len(q)):
-                node, x_pos = q.popleft()
+            node, x_pos = q.popleft()
 
-                res[x_pos].append(node.val)
+            res[x_pos].append(node.val)
 
-                leftmost = min(leftmost, x_pos)
-                rightmost = max(rightmost, x_pos)
-                
-                if node.left:
-                    q.append((node.left, x_pos - 1))
-                if node.right:
-                    q.append((node.right, x_pos + 1))
-        
+            leftmost = min(leftmost, x_pos)
+            rightmost = max(rightmost, x_pos)
+            
+            if node.left:
+                q.append((node.left, x_pos - 1))
+            if node.right:
+                q.append((node.right, x_pos + 1))
+    
         return [res[i] for i in range(leftmost, rightmost + 1)]
