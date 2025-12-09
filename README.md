@@ -217,6 +217,7 @@
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/stanleypangg/Leetcode/tree/master/0520-detect-capital) |
@@ -334,6 +335,7 @@
 | [0295-find-median-from-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/stanleypangg/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0392-is-subsequence) |
+| [0408-valid-word-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/stanleypangg/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/stanleypangg/Leetcode/tree/master/0680-valid-palindrome-ii) |
