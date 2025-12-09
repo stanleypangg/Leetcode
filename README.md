@@ -227,6 +227,7 @@
 | [0742-to-lower-case](https://github.com/stanleypangg/Leetcode/tree/master/0742-to-lower-case) |
 | [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/stanleypangg/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -356,6 +357,7 @@
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/stanleypangg/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/stanleypangg/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/stanleypangg/Leetcode/tree/master/0948-bag-of-tokens) |
 | [2154-minimum-moves-to-convert-string](https://github.com/stanleypangg/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -378,6 +380,7 @@
 | [0234-palindrome-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/stanleypangg/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
 ## Linked List
