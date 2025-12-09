@@ -228,6 +228,7 @@
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/stanleypangg/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
 | [1714-rearrange-spaces-between-words](https://github.com/stanleypangg/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
@@ -375,6 +376,7 @@
 | [0234-palindrome-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
 ## Linked List
 |  |
