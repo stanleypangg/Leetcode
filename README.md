@@ -624,6 +624,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/stanleypangg/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/stanleypangg/Leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/stanleypangg/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
