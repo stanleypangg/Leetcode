@@ -5,8 +5,7 @@ class Solution:
 
         for num in nums2:
             while st and num > st[-1]:
-                top = st.pop()
-                ans[top] = num
+                ans[st.pop()] = num
             st.append(num)
         
         return [ans.get(num, -1) for num in nums1]
