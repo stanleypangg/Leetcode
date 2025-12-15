@@ -7,7 +7,7 @@ class Solution:
         res = 0
         for i in range(len(pairs) - 1, -1, -1):
             p, s = pairs[i]
-            time = (target - p) / float(s)
+            time = (target - p) / s
 
             if time <= top:
                 continue
