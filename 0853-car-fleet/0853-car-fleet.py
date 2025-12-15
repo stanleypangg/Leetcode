@@ -3,14 +3,16 @@ class Solution:
         pairs = [(p, s) for p, s in zip(position, speed)]
         pairs.sort()
 
-        st = []
+        top = float('-inf')
+        res = 0
         for i in range(len(pairs) - 1, -1, -1):
             p, s = pairs[i]
             time = (target - p) / float(s)
 
-            if st and time <= st[-1]:
+            if time <= top:
                 continue
             
-            st.append(time)
+            top = time
+            res += 1
         
-        return len(st)
+        return res
