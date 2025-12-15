@@ -1,17 +1,13 @@
 class Solution:
     def carFleet(self, target: int, position: List[int], speed: List[int]) -> int:
-        pairs = [(p, s) for p, s in zip(position, speed)]
-        pairs.sort()
+        pairs = sorted(zip(position, speed))
 
         top = res = 0
-        for i in range(len(pairs) - 1, -1, -1):
-            p, s = pairs[i]
+        for p, s in reversed(pairs):
             time = (target - p) / s
 
-            if time <= top:
-                continue
-            
-            top = time
-            res += 1
+            if time > top:  
+                top = time
+                res += 1
         
         return res
