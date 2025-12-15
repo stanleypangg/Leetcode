@@ -65,6 +65,7 @@
 | [0419-battleships-in-a-board](https://github.com/stanleypangg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
@@ -136,6 +137,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/stanleypangg/Leetcode/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -387,6 +389,7 @@
 | [0155-min-stack](https://github.com/stanleypangg/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/stanleypangg/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -697,6 +700,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/stanleypangg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/stanleypangg/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
