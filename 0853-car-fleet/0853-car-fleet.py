@@ -3,8 +3,7 @@ class Solution:
         pairs = [(p, s) for p, s in zip(position, speed)]
         pairs.sort()
 
-        top = 0
-        res = 0
+        top = res = 0
         for i in range(len(pairs) - 1, -1, -1):
             p, s = pairs[i]
             time = (target - p) / s
