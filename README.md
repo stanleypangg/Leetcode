@@ -209,6 +209,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stanleypangg/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/stanleypangg/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/stanleypangg/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
