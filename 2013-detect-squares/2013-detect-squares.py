@@ -1,39 +1,24 @@
 class DetectSquares:
 
     def __init__(self):
-        self.freq = defaultdict(int)
-        self.x = defaultdict(set)
-        self.y = defaultdict(set)
+        # key by x -> y -> frequency
+        self.coords = defaultdict(Counter)
 
     def add(self, point: List[int]) -> None:
-        px, py = point
-        self.freq[(px, py)] += 1
-        self.x[px].add(py)
-        self.y[py].add(px)
+        x, y = point
+        self.coords[x][y] += 1
 
     def count(self, point: List[int]) -> int:
         res = 0
-        ax, ay = point
-
-        by = ay
-        for bx in self.y[by]:
-            dist = abs(ax - bx)
-            if dist == 0:
+        x1, y1 = point
+        for y2 in self.coords[x1]:
+            if y1 == y2:
                 continue
-
-            if ax in self.y[ay + dist] and bx in self.y[by + dist]:
-                # square found
-                cx, cy = ax, ay + dist
-                dx, dy = bx, by + dist
-                res += self.freq[(bx, by)] * self.freq[(cx, cy)] * self.freq[(dx, dy)]
-
-            if ax in self.y[ay - dist] and bx in self.y[by - dist]:
-                # square found
-                cx, cy = ax, ay - dist
-                dx, dy = bx, by - dist
-                res += self.freq[(bx, by)] * self.freq[(cx, cy)] * self.freq[(dx, dy)]
-
+            dist = abs(y1 - y2)
+            res += self.coords[x1][y2] * self.coords[x1 + dist][y1] * self.coords[x1 + dist][y2]
+            res += self.coords[x1][y2] * self.coords[x1 - dist][y1] * self.coords[x1 - dist][y2]
         return res
+
 
 # Your DetectSquares object will be instantiated and called as such:
 # obj = DetectSquares()
