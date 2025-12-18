@@ -14,15 +14,12 @@ class Solution:
                 if rooms[r][c] == 0:
                     q.append((r, c))
         
-        depth = 0
         while q:
-            depth += 1
-            for _ in range(len(q)):
-                r, c = q.popleft()
-                for dr, dc in dirs:
-                    nr, nc = r + dr, c + dc
-                    if nr < 0 or nr >= m or nc < 0 or nc >= n or rooms[nr][nc] != INF:
-                        continue
-                    
-                    rooms[nr][nc] = depth
-                    q.append((nr, nc))
+            r, c = q.popleft()
+            for dr, dc in dirs:
+                nr, nc = r + dr, c + dc
+                if nr < 0 or nr >= m or nc < 0 or nc >= n or rooms[nr][nc] != INF:
+                    continue
+                
+                rooms[nr][nc] = rooms[r][c] + 1
+                q.append((nr, nc))
