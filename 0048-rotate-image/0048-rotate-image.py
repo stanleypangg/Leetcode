@@ -3,16 +3,16 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        m, n = len(matrix), len(matrix[0])
-        top, bottom = 0, m - 1
-        left, right = 0, n - 1
+        n = len(matrix)
+        top = left = 0
+        bottom = right = n - 1
 
         while top <= bottom and left <= right:
-            for i in range(right - left):
-                temp, matrix[top][left + i] = matrix[top][left + i], matrix[bottom - i][left]
-                temp, matrix[top + i][right] = matrix[top + i][right], temp
-                temp, matrix[bottom][right - i] = matrix[bottom][right - i], temp
-                matrix[bottom - i][left] = temp
+            for i in range(left, right):
+                temp, matrix[top][i] = matrix[top][i], matrix[n - 1 - i][left]
+                temp, matrix[i][right] = matrix[i][right], temp
+                temp, matrix[bottom][n - 1 - i] = matrix[bottom][n - 1 - i], temp
+                matrix[n - 1 - i][left] = temp
 
             left += 1
             right -= 1
