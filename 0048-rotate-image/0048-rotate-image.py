@@ -6,7 +6,7 @@ class Solution:
         n = len(matrix)
         left, right = 0, n - 1
 
-        while left <= right:
+        while left < right:
             top, bottom = left, right
             for i in range(right - left):
                 temp = matrix[top][left + i]
