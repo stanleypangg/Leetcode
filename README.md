@@ -137,6 +137,7 @@
 | [0217-contains-duplicate](https://github.com/stanleypangg/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/stanleypangg/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/stanleypangg/Leetcode/tree/master/0290-word-pattern) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/stanleypangg/Leetcode/tree/master/0355-design-twitter) |
@@ -235,6 +236,7 @@
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/stanleypangg/Leetcode/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/stanleypangg/Leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0290-word-pattern](https://github.com/stanleypangg/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/stanleypangg/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
