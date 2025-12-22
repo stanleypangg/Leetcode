@@ -242,6 +242,7 @@
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/stanleypangg/Leetcode/tree/master/0394-decode-string) |
 | [0408-valid-word-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -409,6 +410,7 @@
 | [0155-min-stack](https://github.com/stanleypangg/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/stanleypangg/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
@@ -447,6 +449,7 @@
 | [0143-reorder-list](https://github.com/stanleypangg/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/stanleypangg/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
