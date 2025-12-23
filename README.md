@@ -71,6 +71,7 @@
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
@@ -146,6 +147,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/stanleypangg/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0697-degree-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -333,6 +335,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/stanleypangg/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/stanleypangg/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
