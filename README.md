@@ -573,6 +573,7 @@
 | [0337-house-robber-iii](https://github.com/stanleypangg/Leetcode/tree/master/0337-house-robber-iii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/stanleypangg/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -614,6 +615,7 @@
 | [0419-battleships-in-a-board](https://github.com/stanleypangg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/stanleypangg/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -649,6 +651,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/stanleypangg/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0684-redundant-connection](https://github.com/stanleypangg/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
