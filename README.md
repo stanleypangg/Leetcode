@@ -203,6 +203,7 @@
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Simulation
@@ -587,6 +588,7 @@
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 ## Depth-First Search
 |  |
@@ -671,6 +673,7 @@
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 ## Binary Tree
 |  |
@@ -707,6 +710,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 ## Math
 |  |
