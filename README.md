@@ -587,6 +587,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/stanleypangg/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
@@ -636,6 +637,7 @@
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/stanleypangg/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 ## Breadth-First Search
@@ -710,6 +712,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/stanleypangg/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 ## Math
