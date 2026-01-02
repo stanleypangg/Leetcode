@@ -90,6 +90,7 @@
 | [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0948-sort-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0948-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/stanleypangg/Leetcode/tree/master/0948-bag-of-tokens) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/stanleypangg/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -162,6 +163,7 @@
 | [0763-partition-labels](https://github.com/stanleypangg/Leetcode/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/stanleypangg/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/stanleypangg/Leetcode/tree/master/1039-find-the-town-judge) |
