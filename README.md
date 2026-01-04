@@ -81,6 +81,7 @@
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
+| [0766-toeplitz-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/stanleypangg/Leetcode/tree/master/0853-car-fleet) |
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
@@ -501,6 +502,7 @@
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
