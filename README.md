@@ -62,6 +62,7 @@
 | [0253-meeting-rooms-ii](https://github.com/stanleypangg/Leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/stanleypangg/Leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0281-zigzag-iterator) |
 | [0286-walls-and-gates](https://github.com/stanleypangg/Leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/stanleypangg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -522,6 +523,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/stanleypangg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/stanleypangg/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/stanleypangg/Leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0281-zigzag-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0281-zigzag-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/stanleypangg/Leetcode/tree/master/0355-design-twitter) |
@@ -926,6 +928,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/stanleypangg/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0281-zigzag-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0281-zigzag-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -975,4 +978,5 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0281-zigzag-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0281-zigzag-iterator) |
 <!---LeetCode Topics End-->
