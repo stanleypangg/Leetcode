@@ -5,32 +5,35 @@ class FileSystem:
         self.trie = {}
 
     def createPath(self, path: str, value: int) -> bool:
-        directories = path.split('/')[1:]
+        parts = path.split('/')[1:]
+        if not parts:
+            return False
 
         curr = self.trie
-        for i in range(len(directories) - 1):
-            directory = directories[i]
-            if directory not in curr:
+        for part in parts[:-1]:
+            if part not in curr:
                 return False
-            curr = curr[directory][0]
-        
-        if directories[-1] in curr:
+            curr, _ = curr[part]
+
+        last = parts[-1]
+        if last in curr:
             return False
         
-        curr[directories[-1]] = [{}, value]
+        curr[last] = ({}, value)
         return True
 
     def get(self, path: str) -> int:
-        directories = path.split('/')[1:]
-        curr = self.trie
+        parts = path.split('/')[1:]
+        if not parts:
+            return -1
 
-        for i in range(len(directories) - 1):
-            directory = directories[i]
-            if directory not in curr:
+        curr = self.trie
+        for part in parts[:-1]:
+            if part not in curr:
                 return -1
-            curr = curr[directory][0]
+            curr = curr[part][0]
         
-        last = directories[-1]
+        last = parts[-1]
         return -1 if last not in curr else curr[last][1]
 
 
