@@ -170,6 +170,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/stanleypangg/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1166-design-file-system](https://github.com/stanleypangg/Leetcode/tree/master/1166-design-file-system) |
 | [1244-design-a-leaderboard](https://github.com/stanleypangg/Leetcode/tree/master/1244-design-a-leaderboard) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
@@ -283,6 +284,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
+| [1166-design-file-system](https://github.com/stanleypangg/Leetcode/tree/master/1166-design-file-system) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/stanleypangg/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
@@ -532,6 +534,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0838-design-linked-list) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1166-design-file-system](https://github.com/stanleypangg/Leetcode/tree/master/1166-design-file-system) |
 | [1244-design-a-leaderboard](https://github.com/stanleypangg/Leetcode/tree/master/1244-design-a-leaderboard) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
@@ -924,6 +927,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/stanleypangg/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/stanleypangg/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
+| [1166-design-file-system](https://github.com/stanleypangg/Leetcode/tree/master/1166-design-file-system) |
 ## Queue
 |  |
 | ------- |
