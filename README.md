@@ -29,6 +29,7 @@
 | [0056-merge-intervals](https://github.com/stanleypangg/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/stanleypangg/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/stanleypangg/Leetcode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/stanleypangg/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/stanleypangg/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/stanleypangg/Leetcode/tree/master/0078-subsets) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/stanleypangg/Leetcode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
@@ -250,6 +252,7 @@
 | [0049-group-anagrams](https://github.com/stanleypangg/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/stanleypangg/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/stanleypangg/Leetcode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/stanleypangg/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/stanleypangg/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/stanleypangg/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/stanleypangg/Leetcode/tree/master/0079-word-search) |
