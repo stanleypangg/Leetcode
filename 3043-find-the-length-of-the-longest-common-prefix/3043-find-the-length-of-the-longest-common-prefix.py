@@ -1,26 +1,20 @@
 class Solution:
     def longestCommonPrefix(self, arr1: List[int], arr2: List[int]) -> int:
-        res = 0
+        prefixes = set()
         
-        trie = {}
+        if len(arr1) > len(arr2):
+            arr1, arr2 = arr2, arr1 
+
         for n in arr1:
-            n = str(n)
-            curr = trie
-            for ch in n:
-                if ch not in curr:
-                    curr[ch] = {}
-                curr = curr[ch]
+            while n > 0 and n not in prefixes:
+                prefixes.add(n)
+                n //= 10
         
-        # find common prefixes in arr2
+        res = 0
         for n in arr2:
-            n = str(n)
-            curr = trie
-            length = 0
-            for ch in n:
-                if ch not in curr:
-                    break
-                curr = curr[ch]
-                length += 1
-            res = max(res, length)
+            while n > 0:
+                if n in prefixes:
+                    res = max(res, len(str(n)))
+                n //= 10
         
         return res
