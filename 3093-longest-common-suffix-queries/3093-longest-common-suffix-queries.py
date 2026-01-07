@@ -25,7 +25,7 @@ class Solution:
             if len(wordsContainer[i]) < len(wordsContainer[root_i]):
                 trie[''][1] = i
             curr = trie
-            for ch in word[::-1]: # go in reverse, building trie of suffixes
+            for ch in reversed(word): # go in reverse, building trie of suffixes
                 if ch not in curr:
                     curr[ch] = [{}, i]
                 else:
@@ -39,7 +39,7 @@ class Solution:
         ans = [trie[''][1]] * len(wordsQuery)
         for i, word in enumerate(wordsQuery):
             curr = trie
-            for ch in word[::-1]:
+            for ch in reversed(word):
                 if ch not in curr:
                     break
                 nextt, j = curr[ch]
