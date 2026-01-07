@@ -15,26 +15,25 @@ class Solution:
                 length += len(words[i])
                 num_words += 1
             
+            line = ''
             # determine length of strings
             remaining = maxWidth - length
             if num_words == 1:
-                res.append(pack[0] + ' ' * remaining)
+                line = pack[0] + ' ' * remaining
             elif i == n - 1:
-                word = ' '.join(pack)
-                word += ' ' * (maxWidth - len(word))
-                res.append(word)
+                line = ' '.join(pack)
+                line += ' ' * (maxWidth - len(line))
             else:
                 # pad in between each string
-                word = [pack[0]]
+                line = pack[0]
                 num_gaps = num_words - 1
                 extra = remaining % num_gaps
                 spaces = remaining // num_gaps
-                for j in range(extra):
-                    word.append(' ' * (spaces + 1))
-                    word.append(pack[j + 1])
-                for j in range(extra, num_gaps):
-                    word.append(' ' * spaces)
-                    word.append(pack[j + 1])
-                res.append(''.join(word))
+                for j in range(num_gaps):
+                    to_add = spaces + (1 if extra > 0 else 0)
+                    line += ' ' * to_add + pack[j + 1]
+                    if extra:
+                        extra -= 1
+            res.append(line)
             i += 1
         return res
