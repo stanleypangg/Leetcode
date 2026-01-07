@@ -117,6 +117,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/stanleypangg/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3194-find-words-containing-character](https://github.com/stanleypangg/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3290-maximum-multiplication-score](https://github.com/stanleypangg/Leetcode/tree/master/3290-maximum-multiplication-score) |
@@ -180,6 +181,7 @@
 | [2043-simple-bank-system](https://github.com/stanleypangg/Leetcode/tree/master/2043-simple-bank-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stanleypangg/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -296,6 +298,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/stanleypangg/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/stanleypangg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3194-find-words-containing-character](https://github.com/stanleypangg/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/stanleypangg/Leetcode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/stanleypangg/Leetcode/tree/master/3396-valid-word) |
@@ -928,6 +931,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/stanleypangg/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
 | [1166-design-file-system](https://github.com/stanleypangg/Leetcode/tree/master/1166-design-file-system) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
 | ------- |
