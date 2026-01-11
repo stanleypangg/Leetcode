@@ -6,17 +6,20 @@ class Solution:
             adj[crs].add(pre)
         
         visited = set()
+        path = set()
         def dfs(crs):
             if crs in visited:
+                return True
+            if crs in path:
                 # cycle!
                 return False
         
-            visited.add(crs)
+            path.add(crs)
             for pre in adj[crs]:
                 if not dfs(pre):
                     return False
-            visited.remove(crs)
-            adj[crs] = []
+            path.remove(crs)
+            visited.add(crs)
 
             return True
 
