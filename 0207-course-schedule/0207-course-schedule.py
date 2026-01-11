@@ -1,30 +1,24 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        # pre - crs
         adj = defaultdict(set)
+        indeg = [0] * numCourses
+
         for crs, pre in prerequisites:
-            adj[crs].add(pre)
+            adj[pre].add(crs)
+            indeg[crs] += 1
         
-        visited = set()
-        path = set()
-        def dfs(crs):
-            if crs in visited:
-                return True
-            if crs in path:
-                # cycle!
-                return False
+        q = deque([])
+        for i in range(numCourses):
+            if indeg[i] == 0:
+                q.append(i)
         
-            path.add(crs)
-            for pre in adj[crs]:
-                if not dfs(pre):
-                    return False
-            path.remove(crs)
-            visited.add(crs)
-
-            return True
-
-        for crs in range(numCourses):
-            if not dfs(crs):
-                return False
+        processed = 0
+        while q:
+            processed += 1
+            u = q.popleft()
+            for v in adj[u]:
+                indeg[v] -= 1
+                if indeg[v] == 0:
+                    q.append(v)
         
-        return True
+        return processed == numCourses
