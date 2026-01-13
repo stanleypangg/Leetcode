@@ -475,6 +475,7 @@
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/stanleypangg/Leetcode/tree/master/0853-car-fleet) |
+| [0897-increasing-order-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/stanleypangg/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -629,6 +630,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -681,6 +683,7 @@
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
+| [0897-increasing-order-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -759,6 +762,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/stanleypangg/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -877,6 +881,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/stanleypangg/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## String Matching
 |  |
