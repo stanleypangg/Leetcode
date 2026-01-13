@@ -3,35 +3,37 @@ class Bank:
     def __init__(self, balance: List[int]):
         self.balance = balance
 
+    def _validate_account(self, account: int) -> bool:
+        return 1 <= account <= len(self.balance)
+    
+    def _validate_amount(self, account: int, money: int) -> bool:
+        return self.balance[account - 1] >= money
+
     def transfer(self, account1: int, account2: int, money: int) -> bool:
-        if (
-            account1 > len(self.balance) or
-            account2 > len(self.balance) or
-            self.balance[account1 - 1] < money
-        ):
+        if not self._validate_account(account1) or not self._validate_account(account2):
+            return False
+        if not self._validate_amount(account1, money):
             return False
         
         self.balance[account1 - 1] -= money
         self.balance[account2 - 1] += money
-
         return True
 
     def deposit(self, account: int, money: int) -> bool:
-        if account > len(self.balance):
+        if not self._validate_account(account):
             return False
         
         self.balance[account - 1] += money
-
         return True
 
     def withdraw(self, account: int, money: int) -> bool:
-        if account > len(self.balance) or self.balance[account - 1] < money:
+        if not self._validate_account(account):
+            return False
+        if not self._validate_amount(account, money):
             return False
         
         self.balance[account - 1] -= money
-
         return True
-
 
 # Your Bank object will be instantiated and called as such:
 # obj = Bank(balance)
