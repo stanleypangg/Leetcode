@@ -247,6 +247,7 @@
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## String
@@ -311,6 +312,7 @@
 | [1894-merge-strings-alternately](https://github.com/stanleypangg/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/stanleypangg/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2154-minimum-moves-to-convert-string](https://github.com/stanleypangg/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
+| [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/stanleypangg/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/stanleypangg/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/stanleypangg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -485,6 +487,7 @@
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Linked List
 |  |
 | ------- |
@@ -507,6 +510,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/stanleypangg/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Recursion
 |  |
 | ------- |
@@ -576,6 +580,7 @@
 | [2043-simple-bank-system](https://github.com/stanleypangg/Leetcode/tree/master/2043-simple-bank-system) |
 | [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2241-design-an-atm-machine](https://github.com/stanleypangg/Leetcode/tree/master/2241-design-an-atm-machine) |
+| [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Binary Search
 |  |
 | ------- |
@@ -961,6 +966,7 @@
 | [0146-lru-cache](https://github.com/stanleypangg/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/stanleypangg/Leetcode/tree/master/0460-lfu-cache) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
+| [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Trie
 |  |
 | ------- |
