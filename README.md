@@ -421,6 +421,7 @@
 | [0234-palindrome-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0246-strobogrammatic-number](https://github.com/stanleypangg/Leetcode/tree/master/0246-strobogrammatic-number) |
 | [0253-meeting-rooms-ii](https://github.com/stanleypangg/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0277-find-the-celebrity](https://github.com/stanleypangg/Leetcode/tree/master/0277-find-the-celebrity) |
 | [0287-find-the-duplicate-number](https://github.com/stanleypangg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/stanleypangg/Leetcode/tree/master/0344-reverse-string) |
@@ -1002,6 +1003,7 @@
 ## Interactive
 |  |
 | ------- |
+| [0277-find-the-celebrity](https://github.com/stanleypangg/Leetcode/tree/master/0277-find-the-celebrity) |
 | [0374-guess-number-higher-or-lower](https://github.com/stanleypangg/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Shortest Path
 |  |
@@ -1035,4 +1037,8 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0281-zigzag-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0281-zigzag-iterator) |
+## Graph Theory
+|  |
+| ------- |
+| [0277-find-the-celebrity](https://github.com/stanleypangg/Leetcode/tree/master/0277-find-the-celebrity) |
 <!---LeetCode Topics End-->
