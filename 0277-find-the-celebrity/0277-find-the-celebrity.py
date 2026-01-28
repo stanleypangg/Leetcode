@@ -5,16 +5,15 @@
 class Solution:
     def findCelebrity(self, n: int) -> int:
         # celebrity knows no one, but everyone knows the celebrity
-        l, r = 0, 1
-        while r < n:
-            if knows(l, r):
-                l = r
-            r += 1
+        candidate = 0
+        for i in range(1, n):
+            if knows(candidate, i):
+                candidate = i
         
         for i in range(n):
-            if i == l:
+            if i == candidate:
                 continue
-            if not knows(i, l) or knows(l, i):
+            if not knows(i, candidate) or knows(candidate, i):
                 return -1
 
-        return l
+        return candidate
