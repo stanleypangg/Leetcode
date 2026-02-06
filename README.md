@@ -130,6 +130,7 @@
 | [3194-find-words-containing-character](https://github.com/stanleypangg/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3290-maximum-multiplication-score](https://github.com/stanleypangg/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3634-minimum-removals-to-balance-array](https://github.com/stanleypangg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/stanleypangg/Leetcode/tree/master/3637-trionic-array-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/stanleypangg/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -231,6 +232,7 @@
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3634-minimum-removals-to-balance-array](https://github.com/stanleypangg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Simulation
 |  |
 | ------- |
@@ -921,6 +923,7 @@
 | [0239-sliding-window-maximum](https://github.com/stanleypangg/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
+| [3634-minimum-removals-to-balance-array](https://github.com/stanleypangg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Memoization
 |  |
 | ------- |
