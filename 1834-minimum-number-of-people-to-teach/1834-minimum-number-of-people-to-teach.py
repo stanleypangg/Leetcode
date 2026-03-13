@@ -1,5 +1,6 @@
 class Solution:
     def minimumTeachings(self, n: int, languages: List[List[int]], friendships: List[List[int]]) -> int:
+        languages = [set(l) for l in languages]
         users_to_teach = set()
         
         for u, v in friendships:
