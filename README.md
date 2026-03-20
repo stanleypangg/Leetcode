@@ -140,6 +140,7 @@
 | [3708-longest-fibonacci-subarray](https://github.com/stanleypangg/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3634-minimum-removals-to-balance-array](https://github.com/stanleypangg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Simulation
 |  |
 | ------- |
@@ -575,6 +577,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Design
 |  |
 | ------- |
