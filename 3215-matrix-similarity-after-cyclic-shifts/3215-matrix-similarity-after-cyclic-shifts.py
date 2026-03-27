@@ -3,19 +3,13 @@ class Solution:
         m, n = len(mat), len(mat[0])
         r = k % n
 
-        idx = 0
-        while idx < m:
-            row = mat[idx][r:] + mat[idx][:r]
-            if row != mat[idx]:
-                return False
-            idx += 1
-
-            if idx >= m:
-                break
+        for i in range(m):
+            if i % 2 == 0:
+                row = mat[i][r:] + mat[i][:r]
+            else:
+                row = mat[i][n - r:] + mat[i][:n - r]
             
-            row = mat[idx][n - r:] + mat[idx][:n - r]
-            if row != mat[idx]:
+            if row != mat[i]:
                 return False
-            idx += 1
         
         return True
