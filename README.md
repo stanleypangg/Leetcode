@@ -82,6 +82,7 @@
 | [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
@@ -184,6 +185,7 @@
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
+| [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0635-design-log-storage-system](https://github.com/stanleypangg/Leetcode/tree/master/0635-design-log-storage-system) |
 | [0697-degree-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0697-degree-of-an-array) |
@@ -686,6 +688,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/stanleypangg/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -740,6 +743,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/stanleypangg/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/stanleypangg/Leetcode/tree/master/0684-redundant-connection) |
@@ -783,6 +787,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0684-redundant-connection](https://github.com/stanleypangg/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
