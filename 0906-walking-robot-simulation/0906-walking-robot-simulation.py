@@ -1,32 +1,20 @@
 class Solution:
     def robotSim(self, commands: List[int], obstacles: List[List[int]]) -> int:
-        # commands: sequence of moves it needs to execute
-        # 3 types of "moves":
-        # -2 -> turn left 90 (counter-clockwise)
-        # =1 -> turn right 90 (clockwise)
-        # 1 <= k <= 9: move forward k units, one unit at a time
+        obstacles = set(tuple(obs) for obs in obstacles)
+        res = x = y = cur_dir = 0 # N = 0, E = 1, S = 2, W = 3
 
-        # obstacles[i] = (xi, yi)
+        dir_map = ((0, 1), (1, 0), (0, -1), (-1, 0))
 
-        # return: max squared euclidean distance sqrt((x1 - x0)^2 + (y1 - y0)^2) at any point
         res = 0
-        x = y = 0
 
-        # N = 0, E = 1, S = 2, W = 3
-        directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-        facing = 0 # index 0 = North
-
-        obstacles = set(map(tuple, obstacles))
-
-        for command in commands:
-            if command == -2:
-                facing = (facing - 1) % 4
-            elif command == -1:
-                facing = (facing + 1) % 4
+        for c in commands:
+            if c == -2:
+                cur_dir = (cur_dir - 1) % 4
+            elif c == -1:
+                cur_dir = (cur_dir + 1) % 4
             else:
-                # just loop k tiems?
-                dx, dy = directions[facing]
-                for _ in range(command):
+                dx, dy = dir_map[cur_dir]
+                for _ in range(c):
                     nx, ny = x + dx, y + dy
                     if (nx, ny) in obstacles:
                         break
