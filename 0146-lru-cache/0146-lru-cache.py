@@ -1,76 +1,52 @@
 class Node:
-    def __init__(self, key, val, prev = None, next = None):
+    def __init__(self, key = 0, val=0, next=None, prev=None):
         self.key = key
         self.val = val
-        self.prev = prev
         self.next = next
-
-    def remove(self):
-        # Remove self from linked list
-        temp = self.prev
-        self.prev.next = self.next
-        self.next.prev = temp
-    
-    def insert(self, node):
-        # insert node after self
-        temp = self.next
-        self.next = node
-        node.prev, node.next = self, temp
-        temp.prev = node 
+        self.prev = prev
 
 class LRUCache:
-
     def __init__(self, capacity: int):
         self.capacity = capacity
-
-        # hashmap: key -> node
-        # node has prev, next, val, isCached
-        # prev and next to do removal in O(1)
         self.hashmap = {}
-
-        # initialize dummy nodes
-        self.head = Node(-1, 0) # head
-        self.tail = Node(-1, 0) # tail
+        self.head = Node()
+        self.tail = Node()
         self.head.next, self.tail.prev = self.tail, self.head
 
+    def _evict(self, node):
+        node.prev.next, node.next.prev = node.next, node.prev
+
+    def _append(self, node):
+        node.prev, node.next = self.tail.prev, self.tail
+        self.tail.prev.next = self.tail.prev = node
+
     def get(self, key: int) -> int:
-        # O(1): use a hashmap
-        # get: get the key, if exists, check if its within cache
-        # check within cache: keep a boolean
-
-        if key in self.hashmap:
-            # Enforce LRU
-            # Remove Node, and insert at tail
-            node = self.hashmap[key]
-            node.remove()
-            self.tail.prev.insert(node)
-
-            return node.val
+        if key not in self.hashmap:
+            return -1
         
-        return -1
-
+        node = self.hashmap[key]
+        self._evict(node)
+        self._append(node)
+        return node.val
 
     def put(self, key: int, value: int) -> None:
-        # O(1): use a hashmap to put
-        # use a linked list to enforce LRU policy
-        # evict LRU is self.capacity == 0
-        
-        if self.get(key) != -1:
-            # Key exists, self.get handles LRU policy
+        if key in self.hashmap:
             node = self.hashmap[key]
             node.val = value
+            self._evict(node)
+            self._append(node)
             return
-
-        # Otherwise, we insert at end, and handle it ourselves
-        if self.capacity == len(self.hashmap):
-            # Not enough space, we need to evict
-            lru = self.head.next
-            del self.hashmap[lru.key]
-            lru.remove()
-        
-        new_node = Node(key, value)
-        self.hashmap[key] = new_node # create new node
-        self.tail.prev.insert(new_node)
+    
+        if self.capacity == 0:
+            to_evict = self.head.next
+            del self.hashmap[to_evict.key]
+            self._evict(to_evict)
+            self.capacity += 1
+    
+        node = Node(key, value)
+        self.hashmap[key] = node
+        self._append(node)
+        self.capacity -= 1
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
