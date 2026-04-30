@@ -85,6 +85,7 @@
 | [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
+| [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0729-my-calendar-i](https://github.com/stanleypangg/Leetcode/tree/master/0729-my-calendar-i) |
@@ -188,6 +189,7 @@
 | [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0635-design-log-storage-system](https://github.com/stanleypangg/Leetcode/tree/master/0635-design-log-storage-system) |
+| [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0697-degree-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0697-degree-of-an-array) |
 | [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
 | [0763-partition-labels](https://github.com/stanleypangg/Leetcode/tree/master/0763-partition-labels) |
@@ -235,6 +237,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
+| [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
 | [0853-car-fleet](https://github.com/stanleypangg/Leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/stanleypangg/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -579,6 +582,7 @@
 | [0419-battleships-in-a-board](https://github.com/stanleypangg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0422-valid-word-square](https://github.com/stanleypangg/Leetcode/tree/master/0422-valid-word-square) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
+| [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0766-toeplitz-matrix) |
@@ -749,6 +753,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/stanleypangg/Leetcode/tree/master/0684-redundant-connection) |
+| [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
@@ -791,6 +796,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0684-redundant-connection](https://github.com/stanleypangg/Leetcode/tree/master/0684-redundant-connection) |
+| [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
@@ -970,6 +976,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/stanleypangg/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1112,4 +1119,8 @@
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/stanleypangg/Leetcode/tree/master/0277-find-the-celebrity) |
+## Union-Find
+|  |
+| ------- |
+| [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 <!---LeetCode Topics End-->
