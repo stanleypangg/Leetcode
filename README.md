@@ -79,6 +79,7 @@
 | [0419-battleships-in-a-board](https://github.com/stanleypangg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0422-valid-word-square](https://github.com/stanleypangg/Leetcode/tree/master/0422-valid-word-square) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -905,6 +906,7 @@
 | [0337-house-robber-iii](https://github.com/stanleypangg/Leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/stanleypangg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/stanleypangg/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
@@ -928,6 +930,7 @@
 | [0131-palindrome-partitioning](https://github.com/stanleypangg/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/stanleypangg/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 ## Monotonic Stack
 |  |
@@ -947,6 +950,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/stanleypangg/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/stanleypangg/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/stanleypangg/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Database
@@ -1123,4 +1127,8 @@
 |  |
 | ------- |
 | [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
