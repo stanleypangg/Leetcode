@@ -74,6 +74,7 @@
 | [0348-design-tic-tac-toe](https://github.com/stanleypangg/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/stanleypangg/Leetcode/tree/master/0353-design-snake-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/stanleypangg/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/stanleypangg/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/stanleypangg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/stanleypangg/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/stanleypangg/Leetcode/tree/master/0419-battleships-in-a-board) |
@@ -870,6 +871,7 @@
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/stanleypangg/Leetcode/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/stanleypangg/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/stanleypangg/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
@@ -907,6 +909,7 @@
 | [0322-coin-change](https://github.com/stanleypangg/Leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/stanleypangg/Leetcode/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/stanleypangg/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/stanleypangg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/stanleypangg/Leetcode/tree/master/0647-palindromic-substrings) |
