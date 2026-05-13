@@ -73,6 +73,7 @@
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/stanleypangg/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/stanleypangg/Leetcode/tree/master/0353-design-snake-game) |
+| [0370-range-addition](https://github.com/stanleypangg/Leetcode/tree/master/0370-range-addition) |
 | [0380-insert-delete-getrandom-o1](https://github.com/stanleypangg/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/stanleypangg/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/stanleypangg/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -426,6 +427,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/stanleypangg/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/stanleypangg/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/stanleypangg/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0370-range-addition](https://github.com/stanleypangg/Leetcode/tree/master/0370-range-addition) |
 | [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1046-max-consecutive-ones-iii](https://github.com/stanleypangg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
