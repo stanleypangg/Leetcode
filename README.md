@@ -139,6 +139,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2465-shifting-letters-ii](https://github.com/stanleypangg/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/stanleypangg/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2892-check-if-array-is-good](https://github.com/stanleypangg/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/stanleypangg/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -937,6 +938,7 @@
 | [0647-palindromic-substrings](https://github.com/stanleypangg/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/stanleypangg/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3290-maximum-multiplication-score](https://github.com/stanleypangg/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
