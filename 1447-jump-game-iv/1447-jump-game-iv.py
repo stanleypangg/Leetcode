@@ -23,7 +23,7 @@ class Solution:
                     q.append(cur + 1)
                     visited[cur + 1] = True
                 
-                for idx in indices[arr[cur]]:
+                for idx in indices.pop(arr[cur], []):
                     if idx == cur:
                         continue
                     
@@ -31,6 +31,4 @@ class Solution:
                         q.append(idx)
                         visited[idx] = True
                 
-                del indices[arr[cur]]
-        
             depth += 1
