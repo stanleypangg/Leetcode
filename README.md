@@ -119,6 +119,7 @@
 | [1206-corporate-flight-bookings](https://github.com/stanleypangg/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/stanleypangg/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/stanleypangg/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1428-jump-game-iii](https://github.com/stanleypangg/Leetcode/tree/master/1428-jump-game-iii) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/stanleypangg/Leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
@@ -786,6 +787,7 @@
 | [0897-increasing-order-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1428-jump-game-iii](https://github.com/stanleypangg/Leetcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/stanleypangg/Leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/stanleypangg/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
@@ -830,6 +832,7 @@
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1428-jump-game-iii](https://github.com/stanleypangg/Leetcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
