@@ -134,6 +134,7 @@
 | [2043-simple-bank-system](https://github.com/stanleypangg/Leetcode/tree/master/2043-simple-bank-system) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/stanleypangg/Leetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2241-design-an-atm-machine](https://github.com/stanleypangg/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/stanleypangg/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -291,6 +292,7 @@
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/stanleypangg/Leetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/stanleypangg/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -617,6 +619,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/stanleypangg/Leetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/stanleypangg/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3849-equal-sum-grid-partition-i](https://github.com/stanleypangg/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
