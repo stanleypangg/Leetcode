@@ -5,23 +5,16 @@
 #         self.next = next
 class Solution:
     def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        n = 0
-        cur = head
-        while cur:
-            n += 1
-            cur = cur.next
-        
-        if k == n - k + 1:
-            return head
-        
-        cur = head
-        for i in range(max(k, n - k + 1)):
-            idx = i + 1
-            if idx == k:
-                a = cur
-            elif idx == n - k + 1:
-                b = cur
-            cur = cur.next
+        first = head
 
+        for _ in range(k - 1):
+            first = first.next
+        
+        a = first
+        b = head
+        while first.next:
+            first = first.next
+            b = b.next
+        
         a.val, b.val = b.val, a.val
         return head
