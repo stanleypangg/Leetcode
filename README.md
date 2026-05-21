@@ -103,6 +103,7 @@
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/stanleypangg/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/stanleypangg/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/stanleypangg/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/stanleypangg/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
@@ -637,6 +638,7 @@
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/stanleypangg/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/stanleypangg/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -857,6 +859,7 @@
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/stanleypangg/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1017,6 +1020,7 @@
 | [0287-find-the-duplicate-number](https://github.com/stanleypangg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/stanleypangg/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/stanleypangg/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Database
