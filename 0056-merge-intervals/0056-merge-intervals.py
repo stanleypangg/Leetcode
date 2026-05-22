@@ -3,11 +3,11 @@ class Solution:
         intervals.sort()
         res = [intervals[0]]
 
-        for i in range(1, len(intervals)):
-            start, end = intervals[i]
-            if start <= res[-1][1]:
-                res[-1][1] = max(end, res[-1][1])
+        for l, r in intervals[1:]:
+            prev_l, prev_r = res[-1]
+            if l <= prev_r:
+                res[-1][1] = max(prev_r, r)
             else:
-                res.append([start, end])
+                res.append([l, r])
         
         return res
