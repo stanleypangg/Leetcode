@@ -867,6 +867,7 @@
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/stanleypangg/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/stanleypangg/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/stanleypangg/Leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/stanleypangg/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/stanleypangg/Leetcode/tree/master/1428-jump-game-iii) |
@@ -1197,6 +1198,7 @@
 |  |
 | ------- |
 | [0277-find-the-celebrity](https://github.com/stanleypangg/Leetcode/tree/master/0277-find-the-celebrity) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/stanleypangg/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Union-Find
 |  |
 | ------- |
