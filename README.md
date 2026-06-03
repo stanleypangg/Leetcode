@@ -170,6 +170,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3849-equal-sum-grid-partition-i](https://github.com/stanleypangg/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stanleypangg/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3634-minimum-removals-to-balance-array](https://github.com/stanleypangg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stanleypangg/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
 | ------- |
@@ -526,6 +528,7 @@
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/stanleypangg/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stanleypangg/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -550,6 +553,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stanleypangg/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -723,6 +727,7 @@
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stanleypangg/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
