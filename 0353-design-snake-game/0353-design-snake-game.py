@@ -3,46 +3,49 @@ class SnakeGame:
     def __init__(self, width: int, height: int, food: List[List[int]]):
         self.width = width
         self.height = height
-        self.score = 0
-        self.q = deque([(0, 0)])
-        self.body = {(0, 0)}
-        self.food_index = 0
         self.food = food
+        self.food_idx = 0
+        self.score = 0
+        self.body = {(0, 0)}
+        self.q = deque([(0, 0)])
 
     def move(self, direction: str) -> int:
-        dirs = {'R': (0, 1), 'L': (0, -1), 'U': (-1, 0), 'D': (1, 0)}
+        dirs = {
+            'R': (0, 1),
+            'D': (1, 0),
+            'U': (-1, 0),
+            'L': (0, -1)
+        }
+
         dr, dc = dirs[direction]
 
-        r, c = self.q[-1] # top of queue is the head
-        nr, nc = r + dr, c + dc
+        head_r, head_c = self.q[-1]
+        next_r, next_c = head_r + dr, head_c + dc
 
-        # wall collision
-        if nr < 0 or nr >= self.height or nc < 0 or nc >= self.width:
+        if next_r < 0 or next_r >= self.height or next_c < 0 or next_c >= self.width:
             return -1
-
+        
         eating = (
-            self.food_index < len(self.food) and
-            nr == self.food[self.food_index][0] and
-            nc == self.food[self.food_index][1]
+            self.food_idx < len(self.food) and
+            [next_r, next_c] == self.food[self.food_idx]
         )
 
-        # self collision
         tail = self.q[0]
-        if (nr, nc) in self.body and (eating or (nr, nc) != tail):
+        if (next_r, next_c) in self.body and (eating or (next_r, next_c) != tail):
             return -1
 
         if eating:
             self.score += 1
-            self.food_index += 1
+            self.food_idx += 1
         else:
-            tr, tc = self.q.popleft()
-            self.body.remove((tr, tc))
-        
-        self.q.append((nr, nc))
-        self.body.add((nr, nc))
+            tail_r, tail_c = self.q.popleft()
+            self.body.remove((tail_r, tail_c))
 
-        return self.score
+        self.q.append((next_r, next_c))
+        self.body.add((next_r, next_c))
         
+        return self.score
+
 
 # Your SnakeGame object will be instantiated and called as such:
 # obj = SnakeGame(width, height, food)
