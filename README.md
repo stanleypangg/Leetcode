@@ -779,6 +779,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/stanleypangg/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -841,6 +842,7 @@
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/stanleypangg/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/stanleypangg/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -967,6 +969,7 @@
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2752-sum-multiples](https://github.com/stanleypangg/Leetcode/tree/master/2752-sum-multiples) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/stanleypangg/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/stanleypangg/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Dynamic Programming
 |  |
 | ------- |
