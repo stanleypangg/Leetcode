@@ -532,6 +532,7 @@
 | [0948-bag-of-tokens](https://github.com/stanleypangg/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/stanleypangg/Leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1894-merge-strings-alternately](https://github.com/stanleypangg/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/stanleypangg/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -617,6 +618,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/stanleypangg/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Recursion
 |  |
