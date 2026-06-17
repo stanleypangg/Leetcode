@@ -1,14 +1,20 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        count = {}
-        l = res = 0
+        res = 0
+        window = {}
 
+        l = 0
         for r, c in enumerate(s):
-            count[c] = count.get(c, 0) + 1
-            if (r - l + 1) - max(count.values()) > k:
-                count[s[l]] -= 1
+            window[c] = window.get(c, 0) + 1
+
+            # check if replacement is needed
+            if len(window) < 1:
+                continue
+            
+            while l < r and sum(window.values()) - max(window.values()) > k:
+                window[s[l]] -= 1
                 l += 1
-                
+            
             res = max(res, r - l + 1)
-        
+
         return res
