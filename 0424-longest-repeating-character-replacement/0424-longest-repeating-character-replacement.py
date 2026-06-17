@@ -11,10 +11,13 @@ class Solution:
             if len(window) < 1:
                 continue
             
-            while l < r and sum(window.values()) - max(window.values()) > k:
+            total = sum(window.values())
+            while l < r and total - max(window.values()) > k:
                 window[s[l]] -= 1
+                total -= 1
+                max_count = max(window.values())
                 l += 1
-            
+
             res = max(res, r - l + 1)
 
         return res
