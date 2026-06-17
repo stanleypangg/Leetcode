@@ -125,6 +125,7 @@
 | [1206-corporate-flight-bookings](https://github.com/stanleypangg/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/stanleypangg/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/stanleypangg/Leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/stanleypangg/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/stanleypangg/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1428-jump-game-iii](https://github.com/stanleypangg/Leetcode/tree/master/1428-jump-game-iii) |
@@ -232,6 +233,7 @@
 | [1169-invalid-transactions](https://github.com/stanleypangg/Leetcode/tree/master/1169-invalid-transactions) |
 | [1244-design-a-leaderboard](https://github.com/stanleypangg/Leetcode/tree/master/1244-design-a-leaderboard) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [1447-jump-game-iv](https://github.com/stanleypangg/Leetcode/tree/master/1447-jump-game-iv) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
