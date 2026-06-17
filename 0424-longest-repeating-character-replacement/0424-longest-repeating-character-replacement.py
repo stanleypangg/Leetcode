@@ -15,7 +15,6 @@ class Solution:
             while l < r and total - max(window.values()) > k:
                 window[s[l]] -= 1
                 total -= 1
-                max_count = max(window.values())
                 l += 1
 
             res = max(res, r - l + 1)
