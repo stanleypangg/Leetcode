@@ -1,6 +1,8 @@
 class Solution:
     def accountsMerge(self, accounts: List[List[str]]) -> List[List[str]]:
-        parent = [i for i in range(len(accounts))]
+        n = len(accounts)
+        parent = [i for i in range(n)]
+        size = [1] * n
 
         def find(x):
             if parent[x] != x:
@@ -8,8 +10,18 @@ class Solution:
             return parent[x]
         
         def union(x, y):
-            parent[find(x)] = find(y)
-        
+            root_x = find(x)
+            root_y = find(y)
+            
+            if root_x == root_y:
+                return
+            
+            if size[root_x] < size[root_y]:
+                root_x, root_y = root_y, root_x
+            
+            parent[root_y] = root_x
+            size[root_x] += size[root_y]
+
         email_to_account = {}
 
         for i, account in enumerate(accounts):
