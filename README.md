@@ -139,6 +139,7 @@
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/stanleypangg/Leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/stanleypangg/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [1833-find-the-highest-altitude](https://github.com/stanleypangg/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/stanleypangg/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2013-detect-squares](https://github.com/stanleypangg/Leetcode/tree/master/2013-detect-squares) |
@@ -493,6 +494,7 @@
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/stanleypangg/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/stanleypangg/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [1833-find-the-highest-altitude](https://github.com/stanleypangg/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2465-shifting-letters-ii](https://github.com/stanleypangg/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/stanleypangg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3639-zero-array-transformation-i](https://github.com/stanleypangg/Leetcode/tree/master/3639-zero-array-transformation-i) |
