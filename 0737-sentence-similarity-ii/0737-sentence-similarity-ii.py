@@ -3,18 +3,29 @@ class Solution:
         if len(sentence1) != len(sentence2):
             return False
         
-        m = len(similarPairs)
         parent = {}
+        size = {}
 
         def find(x):
             if x not in parent:
                 parent[x] = x
+                size[x] = 1
             elif parent[x] != x:
                 parent[x] = find(parent[x])
             return parent[x]
         
         def union(x, y):
-            parent[find(x)] = find(y)
+            root_x = find(x)
+            root_y = find(y)
+
+            if root_x == root_y:
+                return
+            
+            if size[root_x] < size[root_y]:
+                root_x, root_y = root_y, root_x
+            
+            parent[root_y] = root_x
+            size[root_x] += size[root_y]
         
         for x, y in similarPairs:
             union(x, y)
