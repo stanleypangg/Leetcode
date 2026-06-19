@@ -995,6 +995,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/stanleypangg/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/stanleypangg/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/stanleypangg/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1642-water-bottles](https://github.com/stanleypangg/Leetcode/tree/master/1642-water-bottles) |
 | [2235-add-two-integers](https://github.com/stanleypangg/Leetcode/tree/master/2235-add-two-integers) |
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
