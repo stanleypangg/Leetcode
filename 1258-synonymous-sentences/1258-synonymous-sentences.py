@@ -1,55 +1,51 @@
 class Solution:
     def generateSentences(self, synonyms: List[List[str]], text: str) -> List[str]:
-        # find all synonyms
-        parent = {}
-
-        def find(x):
-            if x not in parent:
-                parent[x] = x
-            elif parent[x] != x:
-                parent[x] = find(parent[x])
-            return parent[x]
+        adj = defaultdict(list)
+        for a, b in synonyms:
+            adj[a].append(b)
+            adj[b].append(a)
         
-        def union(x, y):
-            root_a = find(x)
-            root_b = find(y)
-
-            if root_a == root_b:
-                return
+        word_to_group = {}
+        visited = set()
+        for word in adj:
+            if word in visited:
+                continue
             
-            parent[root_a] = root_b
+            group = []
+            q = deque([word])
+            while q:
+                cur = q.popleft()
+                if cur in visited:
+                    continue
+                
+                visited.add(cur)
+                group.append(cur)
+                
+                for nei in adj[cur]:
+                    q.append(nei)
+            
+            group.sort()
+            for word in group:
+                word_to_group[word] = group
         
-        for x, y in synonyms:
-            union(x, y)
-        
-        groups = defaultdict(list)
-        for word in parent:
-            groups[find(word)].append(word)
-
-        # make them sorted
-        for key in groups:
-            groups[key].sort()
-
-        # backtracking
         text_words = text.split()
         res = []
 
-        cur = []
-        def bt(i):
+        def dfs(i, path):
             if i >= len(text_words):
-                res.append(' '.join(cur))
+                res.append(' '.join(path))
                 return
-            
-            word = text_words[i]
-            if word in parent:
-                for option in groups[find(word)]:
-                    cur.append(option)
-                    bt(i + 1)
-                    cur.pop()
+
+            cur = text_words[i]
+            if cur in word_to_group:
+                for syn in word_to_group[cur]:
+                    path.append(syn)
+                    dfs(i + 1, path)
+                    path.pop()
             else:
-                cur.append(word)
-                bt(i + 1)
-                cur.pop()
+                path.append(cur)
+                dfs(i + 1, path)
+                path.pop()
         
-        bt(0)
+        dfs(0, [])
         return res
