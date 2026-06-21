@@ -127,6 +127,7 @@
 | [1184-car-pooling](https://github.com/stanleypangg/Leetcode/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/stanleypangg/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/stanleypangg/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/stanleypangg/Leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/stanleypangg/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -240,6 +241,7 @@
 | [1166-design-file-system](https://github.com/stanleypangg/Leetcode/tree/master/1166-design-file-system) |
 | [1169-invalid-transactions](https://github.com/stanleypangg/Leetcode/tree/master/1169-invalid-transactions) |
 | [1244-design-a-leaderboard](https://github.com/stanleypangg/Leetcode/tree/master/1244-design-a-leaderboard) |
+| [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
@@ -298,6 +300,7 @@
 | [1169-invalid-transactions](https://github.com/stanleypangg/Leetcode/tree/master/1169-invalid-transactions) |
 | [1184-car-pooling](https://github.com/stanleypangg/Leetcode/tree/master/1184-car-pooling) |
 | [1244-design-a-leaderboard](https://github.com/stanleypangg/Leetcode/tree/master/1244-design-a-leaderboard) |
+| [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -403,6 +406,7 @@
 | [1166-design-file-system](https://github.com/stanleypangg/Leetcode/tree/master/1166-design-file-system) |
 | [1169-invalid-transactions](https://github.com/stanleypangg/Leetcode/tree/master/1169-invalid-transactions) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/stanleypangg/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
@@ -1073,6 +1077,7 @@
 | [0257-binary-tree-paths](https://github.com/stanleypangg/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
+| [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1281,6 +1286,7 @@
 | [0721-accounts-merge](https://github.com/stanleypangg/Leetcode/tree/master/0721-accounts-merge) |
 | [0737-sentence-similarity-ii](https://github.com/stanleypangg/Leetcode/tree/master/0737-sentence-similarity-ii) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/stanleypangg/Leetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
+| [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
 ## Bitmask
 |  |
 | ------- |
