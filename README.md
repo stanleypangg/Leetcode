@@ -104,6 +104,7 @@
 | [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/stanleypangg/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
+| [0829-subdomain-visit-count](https://github.com/stanleypangg/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0853-car-fleet](https://github.com/stanleypangg/Leetcode/tree/master/0853-car-fleet) |
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/stanleypangg/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -236,6 +237,7 @@
 | [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
 | [0763-partition-labels](https://github.com/stanleypangg/Leetcode/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
+| [0829-subdomain-visit-count](https://github.com/stanleypangg/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/stanleypangg/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -408,6 +410,7 @@
 | [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
 | [0763-partition-labels](https://github.com/stanleypangg/Leetcode/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
+| [0829-subdomain-visit-count](https://github.com/stanleypangg/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/stanleypangg/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -492,6 +495,7 @@
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/stanleypangg/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
+| [0829-subdomain-visit-count](https://github.com/stanleypangg/Leetcode/tree/master/0829-subdomain-visit-count) |
 | [1297-maximum-number-of-balloons](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1708-design-parking-system](https://github.com/stanleypangg/Leetcode/tree/master/1708-design-parking-system) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/stanleypangg/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
