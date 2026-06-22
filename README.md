@@ -74,6 +74,7 @@
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/stanleypangg/Leetcode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/stanleypangg/Leetcode/tree/master/0353-design-snake-game) |
+| [0362-design-hit-counter](https://github.com/stanleypangg/Leetcode/tree/master/0362-design-hit-counter) |
 | [0370-range-addition](https://github.com/stanleypangg/Leetcode/tree/master/0370-range-addition) |
 | [0380-insert-delete-getrandom-o1](https://github.com/stanleypangg/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/stanleypangg/Leetcode/tree/master/0396-rotate-function) |
@@ -739,6 +740,7 @@
 | [0353-design-snake-game](https://github.com/stanleypangg/Leetcode/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/stanleypangg/Leetcode/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/stanleypangg/Leetcode/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/stanleypangg/Leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/stanleypangg/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/stanleypangg/Leetcode/tree/master/0460-lfu-cache) |
 | [0635-design-log-storage-system](https://github.com/stanleypangg/Leetcode/tree/master/0635-design-log-storage-system) |
@@ -779,6 +781,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/stanleypangg/Leetcode/tree/master/0270-closest-binary-search-tree-value) |
 | [0287-find-the-duplicate-number](https://github.com/stanleypangg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0362-design-hit-counter](https://github.com/stanleypangg/Leetcode/tree/master/0362-design-hit-counter) |
 | [0374-guess-number-higher-or-lower](https://github.com/stanleypangg/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/stanleypangg/Leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
@@ -1194,6 +1197,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/stanleypangg/Leetcode/tree/master/0359-logger-rate-limiter) |
+| [0362-design-hit-counter](https://github.com/stanleypangg/Leetcode/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
@@ -1243,6 +1247,7 @@
 | [0239-sliding-window-maximum](https://github.com/stanleypangg/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0281-zigzag-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0281-zigzag-iterator) |
 | [0353-design-snake-game](https://github.com/stanleypangg/Leetcode/tree/master/0353-design-snake-game) |
+| [0362-design-hit-counter](https://github.com/stanleypangg/Leetcode/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
