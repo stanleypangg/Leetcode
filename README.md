@@ -149,6 +149,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/stanleypangg/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [1972-rotating-the-box](https://github.com/stanleypangg/Leetcode/tree/master/1972-rotating-the-box) |
 | [2013-detect-squares](https://github.com/stanleypangg/Leetcode/tree/master/2013-detect-squares) |
 | [2043-simple-bank-system](https://github.com/stanleypangg/Leetcode/tree/master/2043-simple-bank-system) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -578,6 +579,7 @@
 | [0948-bag-of-tokens](https://github.com/stanleypangg/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/stanleypangg/Leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1894-merge-strings-alternately](https://github.com/stanleypangg/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1972-rotating-the-box](https://github.com/stanleypangg/Leetcode/tree/master/1972-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
@@ -718,6 +720,7 @@
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/stanleypangg/Leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/stanleypangg/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1972-rotating-the-box](https://github.com/stanleypangg/Leetcode/tree/master/1972-rotating-the-box) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/stanleypangg/Leetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2685-first-completely-painted-row-or-column](https://github.com/stanleypangg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/stanleypangg/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
