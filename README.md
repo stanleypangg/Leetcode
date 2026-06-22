@@ -154,6 +154,7 @@
 | [2013-detect-squares](https://github.com/stanleypangg/Leetcode/tree/master/2013-detect-squares) |
 | [2043-simple-bank-system](https://github.com/stanleypangg/Leetcode/tree/master/2043-simple-bank-system) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2075-brightest-position-on-street](https://github.com/stanleypangg/Leetcode/tree/master/2075-brightest-position-on-street) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/stanleypangg/Leetcode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/stanleypangg/Leetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
@@ -318,6 +319,7 @@
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2075-brightest-position-on-street](https://github.com/stanleypangg/Leetcode/tree/master/2075-brightest-position-on-street) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -532,6 +534,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/stanleypangg/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/stanleypangg/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2075-brightest-position-on-street](https://github.com/stanleypangg/Leetcode/tree/master/2075-brightest-position-on-street) |
 | [2465-shifting-letters-ii](https://github.com/stanleypangg/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/stanleypangg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3639-zero-array-transformation-i](https://github.com/stanleypangg/Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -1293,6 +1296,7 @@
 | ------- |
 | [0635-design-log-storage-system](https://github.com/stanleypangg/Leetcode/tree/master/0635-design-log-storage-system) |
 | [0729-my-calendar-i](https://github.com/stanleypangg/Leetcode/tree/master/0729-my-calendar-i) |
+| [2075-brightest-position-on-street](https://github.com/stanleypangg/Leetcode/tree/master/2075-brightest-position-on-street) |
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Randomized
 |  |
