@@ -168,6 +168,7 @@
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/stanleypangg/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/stanleypangg/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/stanleypangg/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -272,6 +273,7 @@
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/stanleypangg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/stanleypangg/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1296,6 +1298,7 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/stanleypangg/Leetcode/tree/master/1656-count-good-triplets) |
+| [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3849-equal-sum-grid-partition-i](https://github.com/stanleypangg/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Combinatorics
