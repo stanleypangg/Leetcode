@@ -8,5 +8,5 @@ class Solution:
                 buy = sell
             
             res = max(res, sell - buy)
-
+        
         return res
