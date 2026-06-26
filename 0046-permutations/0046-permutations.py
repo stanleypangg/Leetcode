@@ -1,16 +1,17 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        self.res = []
+        res = []
 
-        def dfs(curr, remaining):
+        def bt(cur, remaining):
             if not remaining:
-                self.res.append(curr.copy())
+                res.append(cur.copy())
                 return
             
-            for i, n in enumerate(remaining):
-                curr.append(n)
-                dfs(curr, remaining[:i] + remaining[i+1:])
-                curr.pop()
+            for n in remaining:
+                bt(cur + [n], remaining - {n})
         
-        dfs([], nums)
-        return self.res
+        num_set = set(nums)
+        for n in nums:
+            bt([n], num_set - {n})
+        
+        return res
