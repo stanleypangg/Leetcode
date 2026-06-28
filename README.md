@@ -174,6 +174,7 @@
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/stanleypangg/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/stanleypangg/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stanleypangg/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/stanleypangg/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/stanleypangg/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
@@ -281,6 +282,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/stanleypangg/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stanleypangg/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
@@ -1324,6 +1326,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/stanleypangg/Leetcode/tree/master/1656-count-good-triplets) |
 | [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stanleypangg/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3849-equal-sum-grid-partition-i](https://github.com/stanleypangg/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Combinatorics
