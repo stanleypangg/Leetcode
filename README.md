@@ -147,6 +147,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/stanleypangg/Leetcode/tree/master/1656-count-good-triplets) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/stanleypangg/Leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [1762-buildings-with-an-ocean-view](https://github.com/stanleypangg/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/stanleypangg/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/stanleypangg/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -677,6 +678,7 @@
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
+| [1762-buildings-with-an-ocean-view](https://github.com/stanleypangg/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/stanleypangg/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
@@ -1167,6 +1169,7 @@
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/stanleypangg/Leetcode/tree/master/0853-car-fleet) |
+| [1762-buildings-with-an-ocean-view](https://github.com/stanleypangg/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/stanleypangg/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bit Manipulation
 |  |
