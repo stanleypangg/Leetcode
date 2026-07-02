@@ -183,6 +183,7 @@
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/stanleypangg/Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3194-find-words-containing-character](https://github.com/stanleypangg/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/stanleypangg/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3290-maximum-multiplication-score](https://github.com/stanleypangg/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -507,6 +508,7 @@
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -761,6 +763,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/stanleypangg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/stanleypangg/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3849-equal-sum-grid-partition-i](https://github.com/stanleypangg/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1018,6 +1021,7 @@
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/stanleypangg/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Binary Tree
 |  |
@@ -1318,6 +1322,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/stanleypangg/Leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1362,6 +1367,7 @@
 | [0399-evaluate-division](https://github.com/stanleypangg/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/stanleypangg/Leetcode/tree/master/0547-number-of-provinces) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/stanleypangg/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/stanleypangg/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Union-Find
 |  |
