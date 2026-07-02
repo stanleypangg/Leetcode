@@ -152,6 +152,7 @@
 | [1833-find-the-highest-altitude](https://github.com/stanleypangg/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/stanleypangg/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/stanleypangg/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1958-check-if-move-is-legal](https://github.com/stanleypangg/Leetcode/tree/master/1958-check-if-move-is-legal) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [1972-rotating-the-box](https://github.com/stanleypangg/Leetcode/tree/master/1972-rotating-the-box) |
@@ -676,6 +677,7 @@
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/stanleypangg/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 ## Linked List
@@ -1165,6 +1167,7 @@
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/stanleypangg/Leetcode/tree/master/0853-car-fleet) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/stanleypangg/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bit Manipulation
 |  |
 | ------- |
