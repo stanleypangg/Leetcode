@@ -967,6 +967,7 @@
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/stanleypangg/Leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1973-count-nodes-equal-to-sum-of-descendants](https://github.com/stanleypangg/Leetcode/tree/master/1973-count-nodes-equal-to-sum-of-descendants) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stanleypangg/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/stanleypangg/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/stanleypangg/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
@@ -1025,6 +1026,7 @@
 | [1544-count-good-nodes-in-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1624-clone-binary-tree-with-random-pointer](https://github.com/stanleypangg/Leetcode/tree/master/1624-clone-binary-tree-with-random-pointer) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stanleypangg/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
@@ -1379,6 +1381,7 @@
 | [0399-evaluate-division](https://github.com/stanleypangg/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/stanleypangg/Leetcode/tree/master/0547-number-of-provinces) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/stanleypangg/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stanleypangg/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/stanleypangg/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3620-network-recovery-pathways](https://github.com/stanleypangg/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -1393,6 +1396,7 @@
 | [0737-sentence-similarity-ii](https://github.com/stanleypangg/Leetcode/tree/master/0737-sentence-similarity-ii) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/stanleypangg/Leetcode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stanleypangg/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bitmask
 |  |
