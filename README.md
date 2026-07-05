@@ -134,6 +134,7 @@
 | [1206-corporate-flight-bookings](https://github.com/stanleypangg/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/stanleypangg/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
+| [1301-number-of-paths-with-max-score](https://github.com/stanleypangg/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/stanleypangg/Leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/stanleypangg/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -760,6 +761,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/stanleypangg/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/stanleypangg/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/stanleypangg/Leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/stanleypangg/Leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -1142,6 +1144,7 @@
 | [0647-palindromic-substrings](https://github.com/stanleypangg/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
+| [1301-number-of-paths-with-max-score](https://github.com/stanleypangg/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/stanleypangg/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3290-maximum-multiplication-score](https://github.com/stanleypangg/Leetcode/tree/master/3290-maximum-multiplication-score) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
