@@ -13,11 +13,12 @@ class Solution:
                 
                 cur_score = int(cur) if cur.isdigit() else 0
                 prev = {}
+                max_score = 0
                 for dr, dc in dirs:
                     score, num_paths = dp[r + dr][c + dc]
+                    max_score = max(max_score, score)
                     prev[score] = prev.get(score, 0) + num_paths
                 
-                max_score = max(prev)
                 dp[r][c] = [max_score + cur_score, prev[max_score]]
         
         if dp[0][0][1] == 0:
