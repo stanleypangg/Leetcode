@@ -135,6 +135,7 @@
 | [1206-corporate-flight-bookings](https://github.com/stanleypangg/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/stanleypangg/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
+| [1288-remove-covered-intervals](https://github.com/stanleypangg/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/stanleypangg/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/stanleypangg/Leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -335,6 +336,7 @@
 | [1184-car-pooling](https://github.com/stanleypangg/Leetcode/tree/master/1184-car-pooling) |
 | [1244-design-a-leaderboard](https://github.com/stanleypangg/Leetcode/tree/master/1244-design-a-leaderboard) |
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
+| [1288-remove-covered-intervals](https://github.com/stanleypangg/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2075-brightest-position-on-street](https://github.com/stanleypangg/Leetcode/tree/master/2075-brightest-position-on-street) |
