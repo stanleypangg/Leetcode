@@ -138,6 +138,7 @@
 | [1288-remove-covered-intervals](https://github.com/stanleypangg/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/stanleypangg/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/stanleypangg/Leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
+| [1331-rank-transform-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/stanleypangg/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/stanleypangg/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -271,6 +272,7 @@
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1297-maximum-number-of-balloons](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/stanleypangg/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
@@ -339,6 +341,7 @@
 | [1244-design-a-leaderboard](https://github.com/stanleypangg/Leetcode/tree/master/1244-design-a-leaderboard) |
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
 | [1288-remove-covered-intervals](https://github.com/stanleypangg/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2075-brightest-position-on-street](https://github.com/stanleypangg/Leetcode/tree/master/2075-brightest-position-on-street) |
