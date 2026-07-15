@@ -1374,6 +1374,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/stanleypangg/Leetcode/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/stanleypangg/Leetcode/tree/master/1656-count-good-triplets) |
 | [1958-check-if-move-is-legal](https://github.com/stanleypangg/Leetcode/tree/master/1958-check-if-move-is-legal) |
 | [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
