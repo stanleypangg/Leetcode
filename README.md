@@ -422,6 +422,7 @@
 | [0288-unique-word-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/stanleypangg/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0320-generalized-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0320-generalized-abbreviation) |
 | [0344-reverse-string](https://github.com/stanleypangg/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -1181,6 +1182,7 @@
 | [0131-palindrome-partitioning](https://github.com/stanleypangg/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/stanleypangg/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0320-generalized-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0320-generalized-abbreviation) |
 | [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
@@ -1204,6 +1206,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/stanleypangg/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/stanleypangg/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/stanleypangg/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0320-generalized-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0320-generalized-abbreviation) |
 | [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0861-flipping-an-image](https://github.com/stanleypangg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/stanleypangg/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
