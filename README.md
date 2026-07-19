@@ -115,6 +115,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/stanleypangg/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/stanleypangg/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0900-rle-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0900-rle-iterator) |
+| [0904-fruit-into-baskets](https://github.com/stanleypangg/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/stanleypangg/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
@@ -261,6 +262,7 @@
 | [0763-partition-labels](https://github.com/stanleypangg/Leetcode/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
 | [0829-subdomain-visit-count](https://github.com/stanleypangg/Leetcode/tree/master/0829-subdomain-visit-count) |
+| [0904-fruit-into-baskets](https://github.com/stanleypangg/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0906-walking-robot-simulation](https://github.com/stanleypangg/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/stanleypangg/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/stanleypangg/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -1249,6 +1251,7 @@
 | [0239-sliding-window-maximum](https://github.com/stanleypangg/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/stanleypangg/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/stanleypangg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/stanleypangg/Leetcode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
