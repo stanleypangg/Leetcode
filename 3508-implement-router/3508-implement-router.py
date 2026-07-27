@@ -30,26 +30,7 @@ class Router:
 
     def getCount(self, destination: int, startTime: int, endTime: int) -> int:
         time = self.dest[destination]
-
-        l, r = 0, len(time) - 1
-        while l <= r:
-            mid = (l + r) // 2
-            if time[mid] < startTime:
-                l = mid + 1
-            else:
-                r = mid - 1
-        
-        left = l
-        
-        l, r = 0, len(time) - 1
-        while l <= r:
-            mid = (l + r) // 2
-            if time[mid] > endTime:
-                r = mid - 1
-            else:
-                l = mid + 1
-        
-        return r - left + 1
+        return bisect.bisect_right(time, endTime) - bisect.bisect_left(time, startTime)
 
 
 # Your Router object will be instantiated and called as such:
