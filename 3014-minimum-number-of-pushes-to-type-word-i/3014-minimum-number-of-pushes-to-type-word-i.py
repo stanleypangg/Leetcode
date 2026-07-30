@@ -1,11 +1,13 @@
 class Solution:
     def minimumPushes(self, word: str) -> int:
         freq = Counter(word)
-        sort = sorted((cnt for cnt in freq.values()), reverse=True)
+        heap = [-c for c in freq.values()]
+        heapq.heapify(heap)
 
-        res = mapped = 0
-        for cnt in sort:
-            res += cnt * (mapped // 8 + 1)
-            mapped += 1
-
+        res = presses = 0
+        while heap:
+            cur = -heapq.heappop(heap)
+            res += cur * (presses // 8 + 1)
+            presses += 1
+        
         return res
