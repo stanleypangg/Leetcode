@@ -483,6 +483,7 @@
 | [2465-shifting-letters-ii](https://github.com/stanleypangg/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/stanleypangg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stanleypangg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/stanleypangg/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 | [3194-find-words-containing-character](https://github.com/stanleypangg/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -675,6 +676,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stanleypangg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stanleypangg/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
@@ -1147,6 +1149,7 @@
 | [2235-add-two-integers](https://github.com/stanleypangg/Leetcode/tree/master/2235-add-two-integers) |
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2752-sum-multiples](https://github.com/stanleypangg/Leetcode/tree/master/2752-sum-multiples) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stanleypangg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/stanleypangg/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/stanleypangg/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/stanleypangg/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
