@@ -438,6 +438,7 @@
 | [0320-generalized-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0320-generalized-abbreviation) |
 | [0344-reverse-string](https://github.com/stanleypangg/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/stanleypangg/Leetcode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/stanleypangg/Leetcode/tree/master/0394-decode-string) |
@@ -701,6 +702,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/stanleypangg/Leetcode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/stanleypangg/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -984,6 +986,7 @@
 | [0337-house-robber-iii](https://github.com/stanleypangg/Leetcode/tree/master/0337-house-robber-iii) |
 | [0339-nested-list-weight-sum](https://github.com/stanleypangg/Leetcode/tree/master/0339-nested-list-weight-sum) |
 | [0341-flatten-nested-list-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0385-mini-parser](https://github.com/stanleypangg/Leetcode/tree/master/0385-mini-parser) |
 | [0399-evaluate-division](https://github.com/stanleypangg/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/stanleypangg/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/stanleypangg/Leetcode/tree/master/0419-battleships-in-a-board) |
