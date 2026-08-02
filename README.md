@@ -434,6 +434,7 @@
 | [0271-encode-and-decode-strings](https://github.com/stanleypangg/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0288-unique-word-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/stanleypangg/Leetcode/tree/master/0290-word-pattern) |
+| [0293-flip-game](https://github.com/stanleypangg/Leetcode/tree/master/0293-flip-game) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0320-generalized-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0320-generalized-abbreviation) |
 | [0344-reverse-string](https://github.com/stanleypangg/Leetcode/tree/master/0344-reverse-string) |
