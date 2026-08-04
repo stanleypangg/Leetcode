@@ -92,6 +92,7 @@
 | [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/stanleypangg/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/stanleypangg/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
@@ -379,6 +380,7 @@
 | [0353-design-snake-game](https://github.com/stanleypangg/Leetcode/tree/master/0353-design-snake-game) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/stanleypangg/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0723-candy-crush](https://github.com/stanleypangg/Leetcode/tree/master/0723-candy-crush) |
@@ -790,6 +792,7 @@
 | [0419-battleships-in-a-board](https://github.com/stanleypangg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0422-valid-word-square](https://github.com/stanleypangg/Leetcode/tree/master/0422-valid-word-square) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/stanleypangg/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/stanleypangg/Leetcode/tree/master/0695-max-area-of-island) |
 | [0723-candy-crush](https://github.com/stanleypangg/Leetcode/tree/master/0723-candy-crush) |
