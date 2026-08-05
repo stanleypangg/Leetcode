@@ -96,6 +96,7 @@
 | [0500-keyboard-row](https://github.com/stanleypangg/Leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/stanleypangg/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/stanleypangg/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -259,6 +260,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/stanleypangg/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/stanleypangg/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0635-design-log-storage-system](https://github.com/stanleypangg/Leetcode/tree/master/0635-design-log-storage-system) |
 | [0692-top-k-frequent-words](https://github.com/stanleypangg/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -456,6 +458,7 @@
 | [0500-keyboard-row](https://github.com/stanleypangg/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/stanleypangg/Leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/stanleypangg/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0635-design-log-storage-system](https://github.com/stanleypangg/Leetcode/tree/master/0635-design-log-storage-system) |
 | [0647-palindromic-substrings](https://github.com/stanleypangg/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/0657-robot-return-to-origin) |
