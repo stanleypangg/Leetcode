@@ -191,6 +191,7 @@
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/stanleypangg/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/stanleypangg/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/stanleypangg/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stanleypangg/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/stanleypangg/Leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -310,6 +311,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [2892-check-if-array-is-good](https://github.com/stanleypangg/Leetcode/tree/master/2892-check-if-array-is-good) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/stanleypangg/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/stanleypangg/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stanleypangg/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -1307,6 +1309,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/stanleypangg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/stanleypangg/Leetcode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/stanleypangg/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/stanleypangg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Memoization
 |  |
