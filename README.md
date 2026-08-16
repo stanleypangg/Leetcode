@@ -98,6 +98,7 @@
 | [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/stanleypangg/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/stanleypangg/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/stanleypangg/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
@@ -343,6 +344,7 @@
 | [0347-top-k-frequent-elements](https://github.com/stanleypangg/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/stanleypangg/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/stanleypangg/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/stanleypangg/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/stanleypangg/Leetcode/tree/master/0694-number-of-distinct-islands) |
 | [0721-accounts-merge](https://github.com/stanleypangg/Leetcode/tree/master/0721-accounts-merge) |
@@ -541,6 +543,7 @@
 | [0355-design-twitter](https://github.com/stanleypangg/Leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/stanleypangg/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/stanleypangg/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/stanleypangg/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/stanleypangg/Leetcode/tree/master/0778-reorganize-string) |
@@ -655,6 +658,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/stanleypangg/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0658-find-k-closest-elements](https://github.com/stanleypangg/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/stanleypangg/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0723-candy-crush](https://github.com/stanleypangg/Leetcode/tree/master/0723-candy-crush) |
 | [0763-partition-labels](https://github.com/stanleypangg/Leetcode/tree/master/0763-partition-labels) |
@@ -893,6 +897,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0362-design-hit-counter](https://github.com/stanleypangg/Leetcode/tree/master/0362-design-hit-counter) |
 | [0374-guess-number-higher-or-lower](https://github.com/stanleypangg/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/stanleypangg/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0729-my-calendar-i](https://github.com/stanleypangg/Leetcode/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/stanleypangg/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/stanleypangg/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -1307,6 +1312,7 @@
 | [0239-sliding-window-maximum](https://github.com/stanleypangg/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/stanleypangg/Leetcode/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/stanleypangg/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/stanleypangg/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/stanleypangg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
