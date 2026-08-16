@@ -98,6 +98,7 @@
 | [0582-kill-process](https://github.com/stanleypangg/Leetcode/tree/master/0582-kill-process) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/stanleypangg/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/stanleypangg/Leetcode/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/stanleypangg/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/stanleypangg/Leetcode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/stanleypangg/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -762,6 +763,7 @@
 | [0355-design-twitter](https://github.com/stanleypangg/Leetcode/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/stanleypangg/Leetcode/tree/master/0460-lfu-cache) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/stanleypangg/Leetcode/tree/master/0622-design-circular-queue) |
 | [0838-design-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/stanleypangg/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -855,6 +857,7 @@
 | [0362-design-hit-counter](https://github.com/stanleypangg/Leetcode/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/stanleypangg/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/stanleypangg/Leetcode/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/stanleypangg/Leetcode/tree/master/0622-design-circular-queue) |
 | [0635-design-log-storage-system](https://github.com/stanleypangg/Leetcode/tree/master/0635-design-log-storage-system) |
 | [0729-my-calendar-i](https://github.com/stanleypangg/Leetcode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1400,6 +1403,7 @@
 | [0353-design-snake-game](https://github.com/stanleypangg/Leetcode/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/stanleypangg/Leetcode/tree/master/0362-design-hit-counter) |
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/stanleypangg/Leetcode/tree/master/0622-design-circular-queue) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3508-implement-router](https://github.com/stanleypangg/Leetcode/tree/master/3508-implement-router) |
