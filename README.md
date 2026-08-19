@@ -1507,4 +1507,8 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/stanleypangg/Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
