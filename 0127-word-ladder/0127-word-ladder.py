@@ -1,21 +1,24 @@
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        wordList = set(wordList)
-        if endWord not in wordList:
+        word_set = set(wordList)
+        if endWord not in word_set:
             return 0
 
         q = deque()
-        q.append((beginWord, 1)) # store length within queue to remove depth counter
+        q.append((beginWord, 1))
+        visited = {beginWord}
 
         while q:
-            word, length = q.popleft()
-            if word == endWord:
+            cur, length = q.popleft()
+            if cur == endWord:
                 return length
-            for i in range(len(word)):
-                pre, post = word[:i], word[i+1:]
-                for c in 'abcdefghijklmnopqrstuvwxyz': # alternative to iterating 26 and using ord/chr
-                    next_word = pre + c + post
-                    if next_word in wordList:
-                        wordList.remove(next_word) # this removes need for visited list
-                        q.append((next_word, length+1))
+
+            for i in range(len(cur)):
+                pre, post = cur[:i], cur[i+1:]
+                for char in 'abcdefghijklmnopqrstuvwxyz':
+                    next_word = pre + char + post
+                    if next_word in word_set and next_word not in visited:
+                        visited.add(next_word)
+                        q.append((next_word, length + 1))
+            
         return 0
