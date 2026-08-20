@@ -1,15 +1,12 @@
 class Solution:
     def minCost(self, costs: List[List[int]]) -> int:
         n = len(costs)
+        red, green, blue = costs[0]
 
-        dp = [[float('inf')] * 3 for _ in range(n)]
-        dp[0] = costs[0]
-
-        for i in range(n):
-            for j in range(3):
-                for k in range(3):
-                    if j == k:
-                        continue
-                    dp[i][j] = min(dp[i][j], dp[i - 1][k] + costs[i][j])
+        for i in range(1, n):
+            n_red = min(green, blue) + costs[i][0]
+            n_green = min(red, blue) + costs[i][1]
+            n_blue = min(red, green) + costs[i][2]
+            red, green, blue = n_red, n_green, n_blue
         
-        return min(dp[-1])
+        return min(red, green, blue)
