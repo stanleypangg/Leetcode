@@ -257,6 +257,7 @@
 | [0383-ransom-note](https://github.com/stanleypangg/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/stanleypangg/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/stanleypangg/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/stanleypangg/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/stanleypangg/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -462,6 +463,7 @@
 | [0408-valid-word-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/stanleypangg/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0451-sort-characters-by-frequency](https://github.com/stanleypangg/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/stanleypangg/Leetcode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/stanleypangg/Leetcode/tree/master/0520-detect-capital) |
@@ -1080,6 +1082,7 @@
 | [0399-evaluate-division](https://github.com/stanleypangg/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/stanleypangg/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0433-minimum-genetic-mutation](https://github.com/stanleypangg/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/stanleypangg/Leetcode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/stanleypangg/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -1517,4 +1520,5 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/stanleypangg/Leetcode/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/stanleypangg/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 <!---LeetCode Topics End-->
