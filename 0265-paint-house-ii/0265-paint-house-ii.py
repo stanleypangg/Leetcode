@@ -3,7 +3,7 @@ class Solution:
         n, k = len(costs), len(costs[0])
         cur = costs[0]
 
-        for i in range(1, len(costs)):
+        for i in range(1, n):
             prev = cur
             cur = [float('inf')] * k
 
