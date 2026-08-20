@@ -144,6 +144,7 @@
 | [1206-corporate-flight-bookings](https://github.com/stanleypangg/Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/stanleypangg/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
+| [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/stanleypangg/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/stanleypangg/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/stanleypangg/Leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
@@ -361,6 +362,7 @@
 | [1184-car-pooling](https://github.com/stanleypangg/Leetcode/tree/master/1184-car-pooling) |
 | [1244-design-a-leaderboard](https://github.com/stanleypangg/Leetcode/tree/master/1244-design-a-leaderboard) |
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
+| [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/stanleypangg/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -486,6 +488,7 @@
 | [1169-invalid-transactions](https://github.com/stanleypangg/Leetcode/tree/master/1169-invalid-transactions) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1258-synonymous-sentences](https://github.com/stanleypangg/Leetcode/tree/master/1258-synonymous-sentences) |
+| [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1297-maximum-number-of-balloons](https://github.com/stanleypangg/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/stanleypangg/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -553,6 +556,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/stanleypangg/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/stanleypangg/Leetcode/tree/master/1184-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1304-longest-happy-string](https://github.com/stanleypangg/Leetcode/tree/master/1304-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -908,6 +912,7 @@
 | [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/stanleypangg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1392,6 +1397,7 @@
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/stanleypangg/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1166-design-file-system](https://github.com/stanleypangg/Leetcode/tree/master/1166-design-file-system) |
+| [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/stanleypangg/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/stanleypangg/Leetcode/tree/master/3093-longest-common-suffix-queries) |
 ## Queue
