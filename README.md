@@ -1052,6 +1052,7 @@
 | [0733-flood-fill](https://github.com/stanleypangg/Leetcode/tree/master/0733-flood-fill) |
 | [0737-sentence-similarity-ii](https://github.com/stanleypangg/Leetcode/tree/master/0737-sentence-similarity-ii) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
+| [0802-find-eventual-safe-states](https://github.com/stanleypangg/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0897-increasing-order-search-tree](https://github.com/stanleypangg/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/stanleypangg/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1110,6 +1111,7 @@
 | [0737-sentence-similarity-ii](https://github.com/stanleypangg/Leetcode/tree/master/0737-sentence-similarity-ii) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/stanleypangg/Leetcode/tree/master/0753-open-the-lock) |
+| [0802-find-eventual-safe-states](https://github.com/stanleypangg/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/stanleypangg/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1036-rotting-oranges](https://github.com/stanleypangg/Leetcode/tree/master/1036-rotting-oranges) |
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
@@ -1402,6 +1404,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/stanleypangg/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/stanleypangg/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/stanleypangg/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [3620-network-recovery-pathways](https://github.com/stanleypangg/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Doubly-Linked List
 |  |
@@ -1512,6 +1515,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/stanleypangg/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/stanleypangg/Leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/stanleypangg/Leetcode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/stanleypangg/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/stanleypangg/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stanleypangg/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/stanleypangg/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1556,4 +1560,12 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/stanleypangg/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/stanleypangg/Leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
