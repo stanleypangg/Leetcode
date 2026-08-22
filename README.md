@@ -169,6 +169,7 @@
 | [1762-buildings-with-an-ocean-view](https://github.com/stanleypangg/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/stanleypangg/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/stanleypangg/Leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1833-find-the-highest-altitude](https://github.com/stanleypangg/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/stanleypangg/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -412,6 +413,7 @@
 | [1184-car-pooling](https://github.com/stanleypangg/Leetcode/tree/master/1184-car-pooling) |
 | [1642-water-bottles](https://github.com/stanleypangg/Leetcode/tree/master/1642-water-bottles) |
 | [1708-design-parking-system](https://github.com/stanleypangg/Leetcode/tree/master/1708-design-parking-system) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/stanleypangg/Leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [2043-simple-bank-system](https://github.com/stanleypangg/Leetcode/tree/master/2043-simple-bank-system) |
 | [2058-concatenation-of-array](https://github.com/stanleypangg/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/stanleypangg/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -577,6 +579,7 @@
 | [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1304-longest-happy-string](https://github.com/stanleypangg/Leetcode/tree/master/1304-longest-happy-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1801-number-of-orders-in-the-backlog](https://github.com/stanleypangg/Leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
