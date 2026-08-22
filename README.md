@@ -171,6 +171,7 @@
 | [1833-find-the-highest-altitude](https://github.com/stanleypangg/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/stanleypangg/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/stanleypangg/Leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/stanleypangg/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1958-check-if-move-is-legal](https://github.com/stanleypangg/Leetcode/tree/master/1958-check-if-move-is-legal) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -376,6 +377,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/stanleypangg/Leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2075-brightest-position-on-street](https://github.com/stanleypangg/Leetcode/tree/master/2075-brightest-position-on-street) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -631,6 +633,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1793-minimum-moves-to-make-array-complementary](https://github.com/stanleypangg/Leetcode/tree/master/1793-minimum-moves-to-make-array-complementary) |
 | [1833-find-the-highest-altitude](https://github.com/stanleypangg/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/stanleypangg/Leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [2075-brightest-position-on-street](https://github.com/stanleypangg/Leetcode/tree/master/2075-brightest-position-on-street) |
 | [2465-shifting-letters-ii](https://github.com/stanleypangg/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/stanleypangg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -931,6 +934,7 @@
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/stanleypangg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
+| [1889-minimum-space-wasted-from-packaging](https://github.com/stanleypangg/Leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
