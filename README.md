@@ -319,6 +319,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2502-design-memory-allocator](https://github.com/stanleypangg/Leetcode/tree/master/2502-design-memory-allocator) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/stanleypangg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -611,6 +612,7 @@
 | [1708-design-parking-system](https://github.com/stanleypangg/Leetcode/tree/master/1708-design-parking-system) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/stanleypangg/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2013-detect-squares](https://github.com/stanleypangg/Leetcode/tree/master/2013-detect-squares) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/stanleypangg/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -910,6 +912,7 @@
 | [2241-design-an-atm-machine](https://github.com/stanleypangg/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 | [2502-design-memory-allocator](https://github.com/stanleypangg/Leetcode/tree/master/2502-design-memory-allocator) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/stanleypangg/Leetcode/tree/master/3508-implement-router) |
 ## Binary Search
@@ -1408,6 +1411,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/stanleypangg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Geometry
 |  |
 | ------- |
@@ -1467,6 +1471,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3508-implement-router](https://github.com/stanleypangg/Leetcode/tree/master/3508-implement-router) |
 ## Monotonic Queue
 |  |
