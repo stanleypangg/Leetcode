@@ -188,6 +188,7 @@
 | [2241-design-an-atm-machine](https://github.com/stanleypangg/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/stanleypangg/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/stanleypangg/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2392-build-a-matrix-with-conditions](https://github.com/stanleypangg/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
@@ -1231,6 +1232,7 @@
 | [1446-angle-between-hands-of-a-clock](https://github.com/stanleypangg/Leetcode/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1642-water-bottles](https://github.com/stanleypangg/Leetcode/tree/master/1642-water-bottles) |
 | [2235-add-two-integers](https://github.com/stanleypangg/Leetcode/tree/master/2235-add-two-integers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/stanleypangg/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2752-sum-multiples](https://github.com/stanleypangg/Leetcode/tree/master/2752-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stanleypangg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
