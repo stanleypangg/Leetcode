@@ -1,25 +1,22 @@
 class ValidWordAbbr:
 
+    def _abbr(self, word: str) -> str:
+        mid = '' if len(word) <= 2 else str(len(word) - 2)
+        return word[0] + mid + word[-1]
+
     def __init__(self, dictionary: List[str]):
-        self.map = defaultdict(set)
+        # word in dictionary and freq[abbr(word)] == 1
+        # freq[abbr(word)] == 0
 
-        for word in dictionary:
-            self.map[self._abbreviation(word)].add(word)
+        self.dictionary = set(dictionary)
+        self.freq = defaultdict(int)
 
-        print(self.map)
-
-    def _abbreviation(self, word: str):
-        if len(word) <= 2:
-            return word
-        else:
-            between = str(len(word) - 2)
-            return word[0] + between + word[-1]
+        for word in self.dictionary:
+            self.freq[self._abbr(word)] += 1
 
     def isUnique(self, word: str) -> bool:
-        cur = self._abbreviation(word)
-
-        # no word in dictionary with same abbr OR the only word w/ same abbr is itself
-        return (cur not in self.map) or (len(self.map[cur]) == 1 and word in self.map[cur])
+        abbr = self._abbr(word)
+        return (word in self.dictionary and self.freq[abbr] == 1) or (self.freq[abbr] == 0)
 
 # Your ValidWordAbbr object will be instantiated and called as such:
 # obj = ValidWordAbbr(dictionary)
