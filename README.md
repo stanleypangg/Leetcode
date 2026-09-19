@@ -216,6 +216,7 @@
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/stanleypangg/Leetcode/tree/master/3508-implement-router) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/stanleypangg/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/stanleypangg/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/stanleypangg/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 | [3620-network-recovery-pathways](https://github.com/stanleypangg/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/stanleypangg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -336,6 +337,7 @@
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/stanleypangg/Leetcode/tree/master/3508-implement-router) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/stanleypangg/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/stanleypangg/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stanleypangg/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
@@ -862,6 +864,7 @@
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/stanleypangg/Leetcode/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/stanleypangg/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3849-equal-sum-grid-partition-i](https://github.com/stanleypangg/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Design
@@ -1154,6 +1157,7 @@
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/stanleypangg/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/stanleypangg/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/stanleypangg/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
 ## Binary Tree
 |  |
@@ -1335,6 +1339,7 @@
 | [0895-shortest-path-to-get-all-keys](https://github.com/stanleypangg/Leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/stanleypangg/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/stanleypangg/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
 | ------- |
