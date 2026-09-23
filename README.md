@@ -346,6 +346,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/stanleypangg/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/stanleypangg/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3822-design-order-management-system](https://github.com/stanleypangg/Leetcode/tree/master/3822-design-order-management-system) |
 ## Sorting
 |  |
 | ------- |
@@ -932,6 +933,7 @@
 | [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/stanleypangg/Leetcode/tree/master/3508-implement-router) |
+| [3822-design-order-management-system](https://github.com/stanleypangg/Leetcode/tree/master/3822-design-order-management-system) |
 ## Binary Search
 |  |
 | ------- |
