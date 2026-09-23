@@ -195,6 +195,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2465-shifting-letters-ii](https://github.com/stanleypangg/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2502-design-memory-allocator](https://github.com/stanleypangg/Leetcode/tree/master/2502-design-memory-allocator) |
+| [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/stanleypangg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -324,6 +325,7 @@
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2502-design-memory-allocator](https://github.com/stanleypangg/Leetcode/tree/master/2502-design-memory-allocator) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/stanleypangg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -391,6 +393,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2892-check-if-array-is-good](https://github.com/stanleypangg/Leetcode/tree/master/2892-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/stanleypangg/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -532,6 +535,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/stanleypangg/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2465-shifting-letters-ii](https://github.com/stanleypangg/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/stanleypangg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stanleypangg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/stanleypangg/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -921,6 +925,7 @@
 | [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 | [2502-design-memory-allocator](https://github.com/stanleypangg/Leetcode/tree/master/2502-design-memory-allocator) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+| [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/stanleypangg/Leetcode/tree/master/3508-implement-router) |
 ## Binary Search
