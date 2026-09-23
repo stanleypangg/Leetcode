@@ -191,6 +191,7 @@
 | [2341-count-prefixes-of-a-given-string](https://github.com/stanleypangg/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/stanleypangg/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2392-build-a-matrix-with-conditions](https://github.com/stanleypangg/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
+| [2408-design-sql](https://github.com/stanleypangg/Leetcode/tree/master/2408-design-sql) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2465-shifting-letters-ii](https://github.com/stanleypangg/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -321,6 +322,7 @@
 | [2013-detect-squares](https://github.com/stanleypangg/Leetcode/tree/master/2013-detect-squares) |
 | [2043-simple-bank-system](https://github.com/stanleypangg/Leetcode/tree/master/2043-simple-bank-system) |
 | [2107-number-of-unique-flavors-after-sharing-k-candies](https://github.com/stanleypangg/Leetcode/tree/master/2107-number-of-unique-flavors-after-sharing-k-candies) |
+| [2408-design-sql](https://github.com/stanleypangg/Leetcode/tree/master/2408-design-sql) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2445-reachable-nodes-with-restrictions](https://github.com/stanleypangg/Leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2502-design-memory-allocator](https://github.com/stanleypangg/Leetcode/tree/master/2502-design-memory-allocator) |
@@ -533,6 +535,7 @@
 | [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/stanleypangg/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/stanleypangg/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2408-design-sql](https://github.com/stanleypangg/Leetcode/tree/master/2408-design-sql) |
 | [2465-shifting-letters-ii](https://github.com/stanleypangg/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/stanleypangg/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
@@ -923,6 +926,7 @@
 | [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2241-design-an-atm-machine](https://github.com/stanleypangg/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
+| [2408-design-sql](https://github.com/stanleypangg/Leetcode/tree/master/2408-design-sql) |
 | [2502-design-memory-allocator](https://github.com/stanleypangg/Leetcode/tree/master/2502-design-memory-allocator) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
