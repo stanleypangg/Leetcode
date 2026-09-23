@@ -329,6 +329,7 @@
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
+| [2671-frequency-tracker](https://github.com/stanleypangg/Leetcode/tree/master/2671-frequency-tracker) |
 | [2685-first-completely-painted-row-or-column](https://github.com/stanleypangg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
@@ -931,6 +932,7 @@
 | [2502-design-memory-allocator](https://github.com/stanleypangg/Leetcode/tree/master/2502-design-memory-allocator) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/stanleypangg/Leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
+| [2671-frequency-tracker](https://github.com/stanleypangg/Leetcode/tree/master/2671-frequency-tracker) |
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3508-implement-router](https://github.com/stanleypangg/Leetcode/tree/master/3508-implement-router) |
 | [3822-design-order-management-system](https://github.com/stanleypangg/Leetcode/tree/master/3822-design-order-management-system) |
