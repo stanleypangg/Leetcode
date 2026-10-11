@@ -531,6 +531,7 @@
 | [1304-longest-happy-string](https://github.com/stanleypangg/Leetcode/tree/master/1304-longest-happy-string) |
 | [1512-design-underground-system](https://github.com/stanleypangg/Leetcode/tree/master/1512-design-underground-system) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/stanleypangg/Leetcode/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/stanleypangg/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1714-rearrange-spaces-between-words](https://github.com/stanleypangg/Leetcode/tree/master/1714-rearrange-spaces-between-words) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/stanleypangg/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1894-merge-strings-alternately](https://github.com/stanleypangg/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -743,6 +744,7 @@
 | [0948-bag-of-tokens](https://github.com/stanleypangg/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1304-longest-happy-string](https://github.com/stanleypangg/Leetcode/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/stanleypangg/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/stanleypangg/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/stanleypangg/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2154-minimum-moves-to-convert-string](https://github.com/stanleypangg/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
@@ -784,6 +786,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/stanleypangg/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1087-brace-expansion](https://github.com/stanleypangg/Leetcode/tree/master/1087-brace-expansion) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/stanleypangg/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
 | [1762-buildings-with-an-ocean-view](https://github.com/stanleypangg/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/stanleypangg/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -1637,4 +1640,8 @@
 |  |
 | ------- |
 | [2392-build-a-matrix-with-conditions](https://github.com/stanleypangg/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/stanleypangg/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
