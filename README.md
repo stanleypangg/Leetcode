@@ -201,6 +201,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/stanleypangg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2727-number-of-senior-citizens](https://github.com/stanleypangg/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/stanleypangg/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/stanleypangg/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/stanleypangg/Leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
@@ -1547,6 +1548,7 @@
 | [1291-sequential-digits](https://github.com/stanleypangg/Leetcode/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/stanleypangg/Leetcode/tree/master/1656-count-good-triplets) |
 | [1958-check-if-move-is-legal](https://github.com/stanleypangg/Leetcode/tree/master/1958-check-if-move-is-legal) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/stanleypangg/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2889-number-of-black-blocks](https://github.com/stanleypangg/Leetcode/tree/master/2889-number-of-black-blocks) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/stanleypangg/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
