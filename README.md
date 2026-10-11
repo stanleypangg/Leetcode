@@ -188,6 +188,7 @@
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/stanleypangg/Leetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2241-design-an-atm-machine](https://github.com/stanleypangg/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stanleypangg/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/stanleypangg/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/stanleypangg/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2392-build-a-matrix-with-conditions](https://github.com/stanleypangg/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
@@ -396,6 +397,7 @@
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2075-brightest-position-on-street](https://github.com/stanleypangg/Leetcode/tree/master/2075-brightest-position-on-street) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stanleypangg/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/stanleypangg/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2590-design-a-todo-list](https://github.com/stanleypangg/Leetcode/tree/master/2590-design-a-todo-list) |
@@ -599,6 +601,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/stanleypangg/Leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stanleypangg/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -745,6 +748,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/stanleypangg/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2241-design-an-atm-machine](https://github.com/stanleypangg/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stanleypangg/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2650-split-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stanleypangg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -967,6 +971,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/stanleypangg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/stanleypangg/Leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/stanleypangg/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
