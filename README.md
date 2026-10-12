@@ -602,6 +602,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/stanleypangg/Leetcode/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1962-single-threaded-cpu](https://github.com/stanleypangg/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/stanleypangg/Leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/stanleypangg/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -1530,6 +1531,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/stanleypangg/Leetcode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/stanleypangg/Leetcode/tree/master/0744-network-delay-time) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/stanleypangg/Leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/stanleypangg/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Segment Tree
@@ -1584,6 +1586,7 @@
 | [0547-number-of-provinces](https://github.com/stanleypangg/Leetcode/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/stanleypangg/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/stanleypangg/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/stanleypangg/Leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 | [2392-build-a-matrix-with-conditions](https://github.com/stanleypangg/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/stanleypangg/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/stanleypangg/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1644,4 +1647,8 @@
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/stanleypangg/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/stanleypangg/Leetcode/tree/master/2093-minimum-cost-to-reach-city-with-discounts) |
 <!---LeetCode Topics End-->
