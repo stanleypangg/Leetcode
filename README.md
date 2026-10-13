@@ -490,6 +490,7 @@
 | [0392-is-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/stanleypangg/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/stanleypangg/Leetcode/tree/master/0399-evaluate-division) |
+| [0402-remove-k-digits](https://github.com/stanleypangg/Leetcode/tree/master/0402-remove-k-digits) |
 | [0408-valid-word-abbreviation](https://github.com/stanleypangg/Leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/stanleypangg/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -736,6 +737,7 @@
 | [0134-gas-station](https://github.com/stanleypangg/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/stanleypangg/Leetcode/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/stanleypangg/Leetcode/tree/master/0253-meeting-rooms-ii) |
+| [0402-remove-k-digits](https://github.com/stanleypangg/Leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/stanleypangg/Leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/stanleypangg/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/stanleypangg/Leetcode/tree/master/0763-partition-labels) |
@@ -776,6 +778,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/stanleypangg/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0385-mini-parser](https://github.com/stanleypangg/Leetcode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/stanleypangg/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/stanleypangg/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/stanleypangg/Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -1346,6 +1349,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/stanleypangg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/stanleypangg/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/stanleypangg/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/stanleypangg/Leetcode/tree/master/0853-car-fleet) |
