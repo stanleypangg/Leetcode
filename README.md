@@ -166,6 +166,7 @@
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1656-count-good-triplets](https://github.com/stanleypangg/Leetcode/tree/master/1656-count-good-triplets) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/stanleypangg/Leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1762-buildings-with-an-ocean-view](https://github.com/stanleypangg/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1791-richest-customer-wealth](https://github.com/stanleypangg/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -748,6 +749,7 @@
 | [1304-longest-happy-string](https://github.com/stanleypangg/Leetcode/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/stanleypangg/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/stanleypangg/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/stanleypangg/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/stanleypangg/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2154-minimum-moves-to-convert-string](https://github.com/stanleypangg/Leetcode/tree/master/2154-minimum-moves-to-convert-string) |
@@ -792,6 +794,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/stanleypangg/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/stanleypangg/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1762-buildings-with-an-ocean-view](https://github.com/stanleypangg/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/stanleypangg/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/stanleypangg/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -1353,6 +1356,7 @@
 | [0496-next-greater-element-i](https://github.com/stanleypangg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/stanleypangg/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/stanleypangg/Leetcode/tree/master/0853-car-fleet) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/stanleypangg/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1762-buildings-with-an-ocean-view](https://github.com/stanleypangg/Leetcode/tree/master/1762-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/stanleypangg/Leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Bit Manipulation
