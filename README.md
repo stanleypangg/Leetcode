@@ -60,6 +60,7 @@
 | [0213-house-robber-ii](https://github.com/stanleypangg/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/stanleypangg/Leetcode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/stanleypangg/Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/stanleypangg/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/stanleypangg/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/stanleypangg/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -859,6 +860,7 @@
 | [0130-surrounded-regions](https://github.com/stanleypangg/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/stanleypangg/Leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/stanleypangg/Leetcode/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/stanleypangg/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/stanleypangg/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0286-walls-and-gates](https://github.com/stanleypangg/Leetcode/tree/master/0286-walls-and-gates) |
 | [0289-game-of-life](https://github.com/stanleypangg/Leetcode/tree/master/0289-game-of-life) |
@@ -1302,6 +1304,7 @@
 | [0152-maximum-product-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/stanleypangg/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/stanleypangg/Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/stanleypangg/Leetcode/tree/master/0221-maximal-square) |
 | [0256-paint-house](https://github.com/stanleypangg/Leetcode/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/stanleypangg/Leetcode/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/stanleypangg/Leetcode/tree/master/0276-paint-fence) |
