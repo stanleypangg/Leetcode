@@ -226,6 +226,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/stanleypangg/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/stanleypangg/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/stanleypangg/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/stanleypangg/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/stanleypangg/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3634-minimum-removals-to-balance-array](https://github.com/stanleypangg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/stanleypangg/Leetcode/tree/master/3637-trionic-array-i) |
@@ -897,6 +898,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3484-design-spreadsheet](https://github.com/stanleypangg/Leetcode/tree/master/3484-design-spreadsheet) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/stanleypangg/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/stanleypangg/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3849-equal-sum-grid-partition-i](https://github.com/stanleypangg/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Design
@@ -1128,6 +1130,7 @@
 | [3157-find-the-level-of-tree-with-minimum-sum](https://github.com/stanleypangg/Leetcode/tree/master/3157-find-the-level-of-tree-with-minimum-sum) |
 | [3310-remove-methods-from-project](https://github.com/stanleypangg/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/stanleypangg/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/stanleypangg/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/stanleypangg/Leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
@@ -1197,6 +1200,7 @@
 | [3310-remove-methods-from-project](https://github.com/stanleypangg/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/stanleypangg/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3613-maximize-amount-after-two-days-of-conversions](https://github.com/stanleypangg/Leetcode/tree/master/3613-maximize-amount-after-two-days-of-conversions) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/stanleypangg/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1624,6 +1628,7 @@
 | [2685-count-the-number-of-complete-components](https://github.com/stanleypangg/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/stanleypangg/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/stanleypangg/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bitmask
 |  |
 | ------- |
