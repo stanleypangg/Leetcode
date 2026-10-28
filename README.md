@@ -1328,6 +1328,7 @@
 | [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/stanleypangg/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/stanleypangg/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0935-knight-dialer](https://github.com/stanleypangg/Leetcode/tree/master/0935-knight-dialer) |
 | [0967-minimum-falling-path-sum](https://github.com/stanleypangg/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1137-n-th-tribonacci-number) |
