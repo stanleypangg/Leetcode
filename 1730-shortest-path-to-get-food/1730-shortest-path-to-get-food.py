@@ -18,11 +18,11 @@ class Solution:
         q.append(start)
 
         while q:
+            length += 1
+
             for _ in range(len(q)):
                 r, c = q.popleft()
                 cur = grid[r][c]
-                if cur == '#':
-                    return length
                 
                 for dr, dc in ((0, 1), (1, 0), (-1, 0), (0, -1)):
                     nr, nc = r + dr, c + dc
@@ -30,11 +30,9 @@ class Solution:
                         continue
 
                     if grid[nr][nc] == '#':
-                        return length + 1
+                        return length
 
                     grid[nr][nc] = 'X'
                     q.append((nr, nc))
-
-            length += 1
         
         return -1
