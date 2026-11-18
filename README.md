@@ -93,6 +93,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/stanleypangg/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/stanleypangg/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0422-valid-word-square](https://github.com/stanleypangg/Leetcode/tree/master/0422-valid-word-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/stanleypangg/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/stanleypangg/Leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/stanleypangg/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0495-teemo-attacking](https://github.com/stanleypangg/Leetcode/tree/master/0495-teemo-attacking) |
@@ -1273,6 +1274,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/stanleypangg/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/stanleypangg/Leetcode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/stanleypangg/Leetcode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/stanleypangg/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0912-random-pick-with-weight](https://github.com/stanleypangg/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/stanleypangg/Leetcode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/stanleypangg/Leetcode/tree/master/1014-k-closest-points-to-origin) |
