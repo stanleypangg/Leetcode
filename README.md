@@ -194,6 +194,7 @@
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/stanleypangg/Leetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
 | [2241-design-an-atm-machine](https://github.com/stanleypangg/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/stanleypangg/Leetcode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/stanleypangg/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/stanleypangg/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/stanleypangg/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/stanleypangg/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -447,6 +448,7 @@
 | [2178-walking-robot-simulation-ii](https://github.com/stanleypangg/Leetcode/tree/master/2178-walking-robot-simulation-ii) |
 | [2195-time-needed-to-buy-tickets](https://github.com/stanleypangg/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/stanleypangg/Leetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/stanleypangg/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2296-design-a-text-editor](https://github.com/stanleypangg/Leetcode/tree/master/2296-design-a-text-editor) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/stanleypangg/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-design-memory-allocator](https://github.com/stanleypangg/Leetcode/tree/master/2502-design-memory-allocator) |
@@ -903,6 +905,7 @@
 | [1958-check-if-move-is-legal](https://github.com/stanleypangg/Leetcode/tree/master/1958-check-if-move-is-legal) |
 | [1972-rotating-the-box](https://github.com/stanleypangg/Leetcode/tree/master/1972-rotating-the-box) |
 | [2203-number-of-spaces-cleaning-robot-cleaned](https://github.com/stanleypangg/Leetcode/tree/master/2203-number-of-spaces-cleaning-robot-cleaned) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/stanleypangg/Leetcode/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2392-build-a-matrix-with-conditions](https://github.com/stanleypangg/Leetcode/tree/master/2392-build-a-matrix-with-conditions) |
 | [2685-first-completely-painted-row-or-column](https://github.com/stanleypangg/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
