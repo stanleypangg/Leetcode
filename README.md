@@ -236,6 +236,7 @@
 | [3639-zero-array-transformation-i](https://github.com/stanleypangg/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3708-longest-fibonacci-subarray](https://github.com/stanleypangg/Leetcode/tree/master/3708-longest-fibonacci-subarray) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/stanleypangg/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3790-fruits-into-baskets-ii](https://github.com/stanleypangg/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3838-weighted-word-mapping](https://github.com/stanleypangg/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3849-equal-sum-grid-partition-i](https://github.com/stanleypangg/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
@@ -414,6 +415,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/stanleypangg/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/stanleypangg/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3634-minimum-removals-to-balance-array](https://github.com/stanleypangg/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/stanleypangg/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/stanleypangg/Leetcode/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stanleypangg/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
@@ -618,6 +620,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/stanleypangg/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/stanleypangg/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/stanleypangg/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -771,6 +774,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/stanleypangg/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/stanleypangg/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/stanleypangg/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
+| [3767-maximize-points-after-choosing-k-tasks](https://github.com/stanleypangg/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 | [3965-earliest-finish-time-for-land-and-water-rides-i](https://github.com/stanleypangg/Leetcode/tree/master/3965-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
