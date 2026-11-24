@@ -166,6 +166,7 @@
 | [1429-first-unique-number](https://github.com/stanleypangg/Leetcode/tree/master/1429-first-unique-number) |
 | [1447-jump-game-iv](https://github.com/stanleypangg/Leetcode/tree/master/1447-jump-game-iv) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/stanleypangg/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stanleypangg/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1570-dot-product-of-two-sparse-vectors](https://github.com/stanleypangg/Leetcode/tree/master/1570-dot-product-of-two-sparse-vectors) |
 | [1582-design-browser-history](https://github.com/stanleypangg/Leetcode/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/stanleypangg/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -1004,6 +1005,7 @@
 | [1023-time-based-key-value-store](https://github.com/stanleypangg/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/stanleypangg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/stanleypangg/Leetcode/tree/master/1268-search-suggestions-system) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/stanleypangg/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1889-minimum-space-wasted-from-packaging](https://github.com/stanleypangg/Leetcode/tree/master/1889-minimum-space-wasted-from-packaging) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/stanleypangg/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2634-minimum-common-value](https://github.com/stanleypangg/Leetcode/tree/master/2634-minimum-common-value) |
