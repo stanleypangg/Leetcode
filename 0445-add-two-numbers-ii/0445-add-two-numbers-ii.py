@@ -5,30 +5,26 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: ListNode | None, l2: ListNode | None) -> ListNode | None:
-        def reverse(node):
-            prev = None
-            while node:
-                temp = node.next
-                node.next = prev
-                prev = node
-                node = temp
-            return prev
+        def toArray(l):
+            arr = []
+            while l:
+                arr.append(l.val)
+                l = l.next
+            return arr
         
-        l1 = reverse(l1)
-        l2 = reverse(l2)
-        cur = dummy = ListNode()
+        a1 = toArray(l1)
+        a2 = toArray(l2)
         carry = 0
+        head = None
 
-        while l1 or l2 or carry:
+        while a1 or a2 or carry:
             total = carry
-            if l1:
-                total += l1.val
-                l1 = l1.next
-            if l2:
-                total += l2.val
-                l2 = l2.next
+            if a1:
+                total += a1.pop()
+            if a2:
+                total += a2.pop()
+
             carry = total // 10
-            cur.next = ListNode(total % 10)
-            cur = cur.next
+            head = ListNode(total % 10, head)
         
-        return reverse(dummy.next)
+        return head
